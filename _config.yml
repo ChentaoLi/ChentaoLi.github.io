@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Chentao Li"
   avatar           : "profile.png"
-  bio              : "Biomedical Sciences"
+  bio              : "Undergraduate in Biomedical Sciences"
+  School           : "Zhejiang University & University of Edinburgh"
   location         : "China Hangzhou"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "chentao.20@intl.zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +104,11 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
   vine             :
   weibo            :
   xing             :
