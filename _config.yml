@@ -75,14 +75,14 @@ analytics:
 author:
   name             : "Chentao Li"
   avatar           : "profile.png"
-  bio              : "Undergraduate in Biomedical Sciences"
+  bio              : "Undergraduate in Biomedical Sciences at Zhejiang University & University of Edinburgh"
   School           : "Zhejiang University & University of Edinburgh"
-  location         : "China Hangzhou"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "chentao.20@intl.zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  location         : "Hangzhou, China"
   uri              :
   bitbucket        :
   codepen          :
