@@ -73,16 +73,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chentao Li"
+  name             : "Chentao LI"
   avatar           : "profile.png"
-  bio              : "Undergraduate in Biomedical Sciences at Zhejiang University & University of Edinburgh"
+  bio              : "Biomedical Sciences"
   School           : "Zhejiang University & University of Edinburgh"
-  employer         :
+  employer         : "Zhejiang University & University of Edinburgh"
   pubmed           : 
   googlescholar    : 
   email            : "chentao.20@intl.zju.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Li-Chentao?ev=hdr_xprf"
-  location         : "Hangzhou, China"
+  location         : "Baoding, China"
   uri              :
   bitbucket        :
   codepen          :
