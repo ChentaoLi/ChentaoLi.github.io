@@ -4,7 +4,7 @@ title                    : "Chentao Li"
 title_separator          : "-"
 name                     : &name "Chentao Li"
 description              : &description "Biomedical Sciences"
-url                      : https://chentaoli.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chentaoli.github.io/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChentaoLi/ChentaoLi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ author:
   employer         : "Zhejiang University & University of Edinburgh"
   pubmed           : 
   googlescholar    : 
-  email            : "chentao.20@intl.zju.edu.cn"
+  email            : "li_chentao@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Li-Chentao?ev=hdr_xprf"
   location         : "Baoding, China"
   uri              :
@@ -247,7 +247,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijing # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
