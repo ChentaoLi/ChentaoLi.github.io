@@ -26,15 +26,15 @@ My research interests include:
 
 
 # 🎓 Educations 
-- *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, The Hong Kong University of Science and Technology, China. **
-- *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> **BSc, Zhejiang University, China. **
+- *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, The Hong Kong University of Science and Technology, China.**
+- *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> **BSc, Zhejiang University, China.**
 - *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo.jpg" width="30pt"></a> **BSc, The University of Edinburgh, The United Kindom.**
  
 
 # 📝 Publications 
 
 † Co-First Author, # Corresponding author
-### Research 
+## Research 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience_2024_HSCT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,7 +45,7 @@ My research interests include:
 </div>
 </div>
 
-### Review
+## Review
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">STTT 2023</div><img src='images/STTT_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
