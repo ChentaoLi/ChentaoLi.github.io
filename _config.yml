@@ -15,13 +15,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chentao LI"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong university of science and technology"
-  location         : "Baoding, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
+  home         : "Baoding, China"
+  employer         : #"The Hong Kong University of Science and Technology (Guangzhou)"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=5O51RRAAAAAJ"
+  email            : "li_chentao@outlook.com"
+  researchgate     : "https://www.researchgate.net/profile/Li-Chentao"
   uri              : 
   bitbucket        :
   codepen          :
@@ -29,7 +29,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "chentaoli"
   google_plus      :
   keybase          :
   instagram        :
@@ -37,7 +37,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0000-0003-2887-4845"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
