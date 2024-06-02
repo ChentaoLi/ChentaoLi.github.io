@@ -17,22 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I'm currently a PhD student of Bioscience and Biomedical Engineering at The Hong Kong University of Science and Technology (Guangzhou).  I have obtained the Bachelor's degree of Biomedical Sciences from Zhejiang University and the Bachelor's degree of Integrative Biomedical Sciences from The University of Edinburgh. I have published 4 papers with 
+ <a href='https://scholar.google.com/citations?user=5O51RRAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+- Epigenetics
+- Immunology
 
 
 # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+- *2024.09 - now*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> The Hong Kong University of Science and Technology, China. 
+- *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn//"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> Zhejiang University, China. 
+- *2020.09 - 2024.06*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo.jpg" width="30pt"></a> The University of Edinburgh, The United Kindom
  
 
 # 📝 Publications 
