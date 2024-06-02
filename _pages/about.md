@@ -77,7 +77,7 @@ My research interests include:
 - *2023. 6*   😍 Published the first SCI paper on STTT [[DOI: 10.1038/s41392-023-01502-8]](https://doi.org/10.1038/s41392-023-01502-8).
 - *2022.10*   😀 Led the ZJUintl-China 2022 iGEM team and won the silver prize of iGEM competition.
 - *2022. 8*   🙃 Published the first academic paper on BEHDP conference [[DOI: 10.54097/hset.v8i.1110]](https://doi.org/10.54097/hset.v8i.1110).
-- *2021.10*   😚 Found the first iGEM team of Internarional Campus, Zhejiang University - ZJUintl-China.
+- *2021.10*   😚 Founded the first iGEM team of Internarional Campus, Zhejiang University - ZJUintl-China.
 - *2021. 3*   🤑 Launched the first research project of Student Research Training Program at Zhejiang University with provincial funding.
 - *2020. 9*   😝 Enrolled in the Integrative Biomedical Sciences BSc (Hons) program of The University of Edinburgh.
 - *2020. 9*   😜 Enrolled in the Biomedical Sciences BSc program of Zhejiang University.
