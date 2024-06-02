@@ -64,21 +64,21 @@ My research interests include:
 
 
 # 🏅 Honors and Awards
-- *2024.6*      Outstanding undergraduate graduates of Zhejiang University. 
-- *2022.10*    Silver Prize of the International Genetically Engineered Machine Competition (iGEM) []() [[ZJUintl-China 2022, Team leader]](https://2022.igem.wiki/zjuintl-china)
+- *2024.  6* Outstanding undergraduate graduates of Zhejiang University. 
+- *2022.10* Silver Prize of the International Genetically Engineered Machine Competition (iGEM) []() [[ZJUintl-China 2022, Team leader]](https://2022.igem.wiki/zjuintl-china)
 
 # 📰 News
-- *2024.6*     🫡 Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
-- *2024.5*     🥳 Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences.
-- *2024.5*     😍 Published the outcomes of iGEM on IJBS [[DOI: 10.7150/ijbs.94346]](https://doi.org/10.7150/ijbs.94346).
-- *2024.4*     🤑 Accepted the PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
-- *2024.2*     😍 Published the first research paper on iScience [[DOI: 10.1016/j.isci.2024.109126]](https://doi.org/10.1016/j.isci.2024.109126).
-- *2023.9*     😭 Tried to apply for oversea PhD programs but all applications were all rejected.
-- *2023.6*     😍 Published the first SCI paper on STTT [[DOI: 10.1038/s41392-023-01502-8]](https://doi.org/10.1038/s41392-023-01502-8).
+- *2024.  6*   🫡 Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
+- *2024.  5*   🥳 Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences.
+- *2024.  5*   😍 Published the outcomes of iGEM on IJBS [[DOI: 10.7150/ijbs.94346]](https://doi.org/10.7150/ijbs.94346).
+- *2024.  4*   🤑 Accepted the PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
+- *2024.  2*   😍 Published the first research paper on iScience [[DOI: 10.1016/j.isci.2024.109126]](https://doi.org/10.1016/j.isci.2024.109126).
+- *2023.  9*   😭 Tried to apply for oversea PhD programs but all applications were all rejected.
+- *2023.  6*   😍 Published the first SCI paper on STTT [[DOI: 10.1038/s41392-023-01502-8]](https://doi.org/10.1038/s41392-023-01502-8).
 - *2022.10*   😀 Led the ZJUintl-China 2022 iGEM team and won the silver prize of iGEM competition.
-- *2022.8*     🙃 Published the first academic paper on BEHDP conference [[DOI: 10.54097/hset.v8i.1110]](https://doi.org/10.54097/hset.v8i.1110).
+- *2022.  8*   🙃 Published the first academic paper on BEHDP conference [[DOI: 10.54097/hset.v8i.1110]](https://doi.org/10.54097/hset.v8i.1110).
 - *2021.10*   😚 Found the first iGEM team of Internarional Campus, Zhejiang University - ZJUintl-China.
-- *2021.3*     🤑 Launched the first research project of Student Research Training Program at Zhejiang University with provincial funding.
-- *2020.9*     😝 Enrolled in the Integrative Biomedical Sciences BSc (Hons) program of The University of Edinburgh.
-- *2020.9*     😜 Enrolled in the Biomedical Sciences BSc program of Zhejiang University.
-- *2020.7*     😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
+- *2021.  3*   🤑 Launched the first research project of Student Research Training Program at Zhejiang University with provincial funding.
+- *2020.  9*   😝 Enrolled in the Integrative Biomedical Sciences BSc (Hons) program of The University of Edinburgh.
+- *2020.  9*   😜 Enrolled in the Biomedical Sciences BSc program of Zhejiang University.
+- *2020.  7*   😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
