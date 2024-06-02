@@ -71,7 +71,8 @@ My research interests include:
 - *2022.10*  Silver Prize of the International Genetically Engineered Machine Competition (iGEM) (ZJUintl-China 2022, Team leader). 
 
 # 📰 News
-- *2024.6*  Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences!
-- *2024.5*  Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences!
-- *2024.5*  Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences!
-- *2024.4*  Accepted the PhD offer from The Hong Kong University of Science and Technology (Guangzhou)
+- *2024.6*  Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
+- *2024.5*  Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences.
+- *2024.5*  Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences.
+- *2024.4*  Accepted the PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
+
