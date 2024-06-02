@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a **PhD student** of Bioscience and Biomedical Engineering at **The Hong Kong University of Science and Technology (Guangzhou)**.  I have obtained the Bachelor's degree of Biomedical Sciences from **Zhejiang University** and the Bachelor's degree of Integrative Biomedical Sciences from **The University of Edinburgh**. 
+I'm currently a *PhD student* of Bioscience and Biomedical Engineering at **The Hong Kong University of Science and Technology (Guangzhou)**.  I have obtained the *Bachelor's degree of Biomedical Sciences* from **Zhejiang University** and the *Bachelor's degree with Honours of Integrative Biomedical Sciences* from **The University of Edinburgh**. 
 
 
 My research interests include: 
