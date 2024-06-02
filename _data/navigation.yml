@@ -16,4 +16,4 @@ main:
     url: "/#-news"
 
   - title: "Blogs"
-    url: /blogs/
+    url: "/blogs/"
