@@ -84,6 +84,16 @@ My research interests include:
 - *2020. 7*   😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
 
 # 💻 Blogs
-2024.06.01
-======
-💦记录一下这个个人主页的生日
+- *2024.06.01* 💦记录一下我的个人主页的生日
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZJU BSc Dissertation</div><img src='images/ZJU-BSc-Dissertation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.04.16* 😎浙江大学毕业论文提交咯！
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Edin BSc Dissertation</div><img src='images/Edin-BSc-Dissertation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.04.16* 🫠爱丁堡大学毕业论文提交咯！
+</div>
+</div>
