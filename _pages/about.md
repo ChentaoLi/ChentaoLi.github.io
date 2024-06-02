@@ -20,7 +20,7 @@ redirect_from:
 I'm currently a **PhD student** of Bioscience and Biomedical Engineering at **The Hong Kong University of Science and Technology (Guangzhou)**.  I have obtained the Bachelor's degree of Biomedical Sciences from **Zhejiang University** and the Bachelor's degree of Integrative Biomedical Sciences from **The University of Edinburgh**. 
 
 
-**My research interests include: **
+My research interests include: 
 - Epigenetics
 - Immunology
 
@@ -33,14 +33,14 @@ I'm currently a **PhD student** of Bioscience and Biomedical Engineering at **Th
 
 # 📝 Publications 
 
-† Co-First Author, # Corresponding author,
+† Co-First Author, # Corresponding author
 ### Research 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience_2024_HSCT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Li, X.†, Zhang, W.†, Wang, Y.†, `Li, C.†`, Wu, Y., Shang, Y., Lin, H., Li, Y., Wang, Y., Zeng, X., Cen, Z., Lai, X., Luo, Y.#, Qian, P.#, Huang, H.# (2024). Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD and damage the aged HSCs. *iScience*. Doi: 10.1016/j.isci.2024.109126. 
-[[Link]](https://doi.org/10.1016/j.isci.2024.109126) [[PDF]](/pdf/3. iScience_2024.pdf)
+ [[Link]](https://doi.org/10.1016/j.isci.2024.109126) [[PDF]](/pdf/3. iScience_2024.pdf)
 
 </div>
 </div>
@@ -51,7 +51,7 @@ I'm currently a **PhD student** of Bioscience and Biomedical Engineering at **Th
 <div class='paper-box-text' markdown="1">
 
 -	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). Aging and Inflammation: Signaling Pathways and Intervention Therapies, *Signal Transduction and Targeted Therapy*. Doi: 10.1038/s41392-023-01502-8. 
-[[Link]](https://doi.org/10.1038/s41392-023-01502-8) [[PDF]](/pdf/2. STTT_2023.pdf)
+ [[Link]](https://doi.org/10.1038/s41392-023-01502-8) [[PDF]](/pdf/2. STTT_2023.pdf)
 
 </div>
 </div>
@@ -60,7 +60,7 @@ I'm currently a **PhD student** of Bioscience and Biomedical Engineering at **Th
 <div class='paper-box-text' markdown="1">
 
 -	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). Synthetic Cells and Molecules in Cellular Immunotherapy. *International Journal of Biological Sciences*, 20(8), 2833-2859. Doi: 10.7150/ijbs.94346.
-[[Link]](https://doi.org/10.7150/ijbs.94346) [[PDF]](/pdf/4. IJBS_2024.pdf)
+ [[Link]](https://doi.org/10.7150/ijbs.94346) [[PDF]](/pdf/4. IJBS_2024.pdf)
 
 </div>
 </div>
@@ -69,3 +69,9 @@ I'm currently a **PhD student** of Bioscience and Biomedical Engineering at **Th
 # 🏅 Honors and Awards
 - *2024.6*  Outstanding undergraduate graduates of Zhejiang University. 
 - *2022.10*  Silver Prize of the International Genetically Engineered Machine Competition (iGEM) (ZJUintl-China 2022, Team leader). 
+
+# 📰 News
+- *2024.6*  Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences!
+- *2024.5*  Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences!
+- *2024.5*  Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences!
+- *2024.4*  Accepted the PhD offer from The Hong Kong University of Science and Technology (Guangzhou)
