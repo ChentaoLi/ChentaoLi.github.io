@@ -40,7 +40,6 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	Li, X.†, Zhang, W.†, Wang, Y.†, `Li, C.†`, Wu, Y., Shang, Y., Lin, H., Li, Y., Wang, Y., Zeng, X., Cen, Z., Lai, X., Luo, Y.#, Qian, P.#, Huang, H.# (2024). Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD and damage the aged HSCs. *iScience*. Doi: 10.1016/j.isci.2024.109126. 
- 
 [[Link]](https://doi.org/10.1016/j.isci.2024.109126) [[PDF]](/pdf/3. iScience_2024.pdf)
 
 </div>
@@ -52,7 +51,6 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). Aging and Inflammation: Signaling Pathways and Intervention Therapies, *Signal Transduction and Targeted Therapy*. Doi: 10.1038/s41392-023-01502-8. 
-
 [[Link]](https://doi.org/10.1038/s41392-023-01502-8) [[PDF]](/pdf/2. STTT_2023.pdf)
 
 </div>
@@ -62,7 +60,6 @@ My research interests include:
 <div class='paper-box-text' markdown="1">
 
 -	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). Synthetic Cells and Molecules in Cellular Immunotherapy. *International Journal of Biological Sciences*, 20(8), 2833-2859. Doi: 10.7150/ijbs.94346.
-
 [[Link]](https://doi.org/10.7150/ijbs.94346) [[PDF]](/pdf/4. IJBS_2024.pdf)
 
 </div>
