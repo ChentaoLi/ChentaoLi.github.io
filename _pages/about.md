@@ -76,6 +76,8 @@ My research interests include:
 # 📰 News
 - *2024.6*  Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
 - *2024.5*  Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences.
-- *2024.5*  Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences.
 - *2024.4*  Accepted the PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
+- *2020.9*  Enrolled in the Biomedical Sciences BSc program of The University of Edinburgh.
+- *2020.9*  Enrolled in the Biomedical Sciences BSc program of Zhejiang University.
+- *2020.7*  Participated in the National Higher Education Entrance Examination (Deferred due to the COVID-19 epidemic).
 
