@@ -65,15 +65,15 @@ My research interests include:
 
 # 🏅 Honors and Awards
 - *2024.6*  Outstanding undergraduate graduates of Zhejiang University. 
-- *2022.10*  Silver Prize of the International Genetically Engineered Machine Competition (iGEM) (ZJUintl-China 2022, Team leader). 
+- *2022.10*  Silver Prize of the International Genetically Engineered Machine Competition (iGEM) []() [[ZJUintl-China 2022, Team leader]](https://2022.igem.wiki/zjuintl-china)
 
 # 📰 News
 - *2024.6*  Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
 - *2024.5*  Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences.
 - *2024.4*  Accepted the PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
+- *2022.10*  Found the first iGEM team of Internarional Campus, Zhejiang University 
 - *2022.8*  Published the first academic paper with [[DOI: 10.54097/hset.v8i.1110]](https://doi.org/10.54097/hset.v8i.1110).
-- *2021.3*  Launched the first research project .
+- *2021.3*  Launched the first research project of Student Research Training Program at Zhejiang University with provincial funding.
 - *2020.9*  Enrolled in the Integrative Biomedical Sciences BSc (Hons) program of The University of Edinburgh.
 - *2020.9*  Enrolled in the Biomedical Sciences BSc program of Zhejiang University.
 - *2020.7*  Participated in the National Higher Education Entrance Examination (Deferred due to the COVID-19 epidemic).
-
