@@ -86,14 +86,34 @@ My research interests include:
 # 💻 Blogs
 - *2024.06.01* 💦记录一下我的个人主页的生日
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">千岛湖</div><img src='qiandaohu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.05.31* ☺️毕业进程完结后的度假！
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">小熊收集计划</div><img src='xiaoxiong12.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.05.22* 😘浙江大学专属毕业小熊与爱丁堡大学专属毕业小熊！收集成功！
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">五岳之巅</div><img src='images/huashan.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.05.11* 🤠西安行，登顶华山南峰！
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZJU BSc Dissertation</div><img src='images/ZJU-BSc-Dissertation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2024.04.16* 😎浙江大学毕业论文提交咯！
+- *2024.05.24* 😎浙江大学毕业论文提交！
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Edin BSc Dissertation</div><img src='images/Edin-BSc-Dissertation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2024.04.16* 🫠爱丁堡大学毕业论文提交咯！
+- *2024.04.23* 🫠爱丁堡大学毕业论文提交！
 </div>
 </div>
