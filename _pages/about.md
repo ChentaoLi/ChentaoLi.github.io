@@ -17,42 +17,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm currently a **PhD student** of Bioscience and Biomedical Engineering at **The Hong Kong University of Science and Technology (Guangzhou)**.  I have obtained the Bachelor's degree of Biomedical Sciences from **Zhejiang University** and the Bachelor's degree of Integrative Biomedical Sciences from **The University of Edinburgh**. 
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**My research interests include: **
+- Epigenetics
+- Immunology
+
+
+# 🎓 Educations 
+- *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, The Hong Kong University of Science and Technology, China. **
+- *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> **BSc, Zhejiang University, China. **
+- *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo.jpg" width="30pt"></a> **BSc, The University of Edinburgh, The United Kindom.**
+ 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+† Co-First Author, # Corresponding author,
+### Research 
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience_2024_HSCT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+-	Li, X.†, Zhang, W.†, Wang, Y.†, `Li, C.†`, Wu, Y., Shang, Y., Lin, H., Li, Y., Wang, Y., Zeng, X., Cen, Z., Lai, X., Luo, Y.#, Qian, P.#, Huang, H.# (2024). Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD and damage the aged HSCs. *iScience*. Doi: 10.1016/j.isci.2024.109126. 
+[[Link]](https://doi.org/10.1016/j.isci.2024.109126) [[PDF]](/pdf/3. iScience_2024.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+### Review
+---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STTT 2023</div><img src='images/STTT_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). Aging and Inflammation: Signaling Pathways and Intervention Therapies, *Signal Transduction and Targeted Therapy*. Doi: 10.1038/s41392-023-01502-8. 
+[[Link]](https://doi.org/10.1038/s41392-023-01502-8) [[PDF]](/pdf/2. STTT_2023.pdf)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJBS 2024</div><img src='images/IJBS_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). Synthetic Cells and Molecules in Cellular Immunotherapy. *International Journal of Biological Sciences*, 20(8), 2833-2859. Doi: 10.7150/ijbs.94346.
+[[Link]](https://doi.org/10.7150/ijbs.94346) [[PDF]](/pdf/4. IJBS_2024.pdf)
+
+</div>
+</div>
+
+
+# 🏅 Honors and Awards
+- *2024.6*  Outstanding undergraduate graduates of Zhejiang University. 
+- *2022.10*  Silver Prize of the International Genetically Engineered Machine Competition (iGEM) (ZJUintl-China 2022, Team leader). 
