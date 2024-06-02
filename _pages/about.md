@@ -88,13 +88,13 @@ My research interests include:
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">千岛湖</div><img src='qiandaohu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">千岛湖</div><img src='images/qiandaohu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.05.31* ☺️毕业进程完结后的度假！
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">小熊收集计划</div><img src='xiaoxiong12.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">小熊收集计划</div><img src='images/xiaoxiong12.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.05.22* 😘浙江大学专属毕业小熊与爱丁堡大学专属毕业小熊！收集成功！
 </div>
