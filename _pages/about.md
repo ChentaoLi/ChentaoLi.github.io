@@ -70,7 +70,9 @@ My research interests include:
 # 📰 News
 - *2024.6*     🫡 Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
 - *2024.5*     🥳 Graduated from The University of Edinburgh with the Bachelor's degree of Integrative Biomedical Sciences.
+- *2024.5*     😍 Published the outcomes of iGEM on IJBS [[DOI: 10.7150/ijbs.94346]](https://doi.org/10.7150/ijbs.94346).
 - *2024.4*     🤑 Accepted the PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
+- *2024.2*     😍 Published the first research paper on iScience [[DOI: 10.1016/j.isci.2024.109126]](https://doi.org/10.1016/j.isci.2024.109126).
 - *2023.9*     😭 Tried to apply for oversea PhD programs but all applications were all rejected.
 - *2023.6*     😍 Published the first SCI paper on STTT [[DOI: 10.1038/s41392-023-01502-8]](https://doi.org/10.1038/s41392-023-01502-8).
 - *2022.10*   😀 Led the ZJUintl-China 2022 iGEM team and won the silver prize of iGEM competition.
