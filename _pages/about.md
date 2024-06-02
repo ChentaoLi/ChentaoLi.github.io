@@ -82,3 +82,8 @@ My research interests include:
 - *2020. 9*   😝 Enrolled in the Integrative Biomedical Sciences BSc (Hons) program of The University of Edinburgh.
 - *2020. 9*   😜 Enrolled in the Biomedical Sciences BSc program of Zhejiang University.
 - *2020. 7*   😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
+
+# 💻 Blogs
+2024.06.01
+======
+💦记录一下这个个人主页的生日
