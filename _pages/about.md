@@ -178,7 +178,7 @@ My research interests include:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">520</div><img src='images/2021.05.20.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2021.05.20* 🤓属于我的第一束花~
+- *2021.05.20* 🤓属于我的花~
 </div>
 </div>
 
