@@ -158,6 +158,12 @@ My research interests include:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">浙江大学海宁国际校区</div><img src='images/2022.9.15.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2022.9.15* 😎纪念一次浙江大学海宁国际校区的日落。
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">发癫日常</div><img src='images/2022.05.02.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2022.05.02* 🥸收集发癫日常~
@@ -194,7 +200,7 @@ My research interests include:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">浙江大学海宁国际校区</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">浙江大学海宁国际校区</div><img src='images/2020.9.15.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2020.9.15* 😎纪念一次浙江大学海宁国际校区的日落。
 </div>
