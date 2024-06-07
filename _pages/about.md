@@ -86,6 +86,12 @@ My research interests include:
 # 💻 Blogs
 ---以下为个人生活---Here are my blogs---
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕业</div><img src='images/2024.06.22.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.06.22* 🎓️重新介绍一下，我是浙江大学2024届毕业生！
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">千岛湖</div><img src='images/qiandaohu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.05.31* ☺️毕业进程完结后的度假！
