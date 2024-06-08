@@ -27,7 +27,12 @@ My research interests include:
 My research statistics include:
 - Research articles 1
 - Review articles 3
--  <a href='https://scholar.google.com/citations?user=5O51RRAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=5O51RRAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+<a href="https://scholar.google.com/citations?user=5O51RRAAAAAJ">
+    <img src="google_scholar_logo.png" alt="Google Scholar Logo" style="width:20px;height:20px;">
+    <a href='https://scholar.google.com/citations?user=5O51RRAAAAAJ'>
+</a>
 
 
 # 🎓 Educations 
@@ -55,6 +60,7 @@ My research statistics include:
 <div class='paper-box-text' markdown="1">
 
 -	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). Aging and Inflammation: Signaling Pathways and Intervention Therapies, *Signal Transduction and Targeted Therapy*. Doi: 10.1038/s41392-023-01502-8. []() [[Link]](https://doi.org/10.1038/s41392-023-01502-8) [[PDF]](/pdf/2. STTT_2023.pdf)
+**Citations:** [Google Scholar](https://scholar.google.com/scholar?cites=17016211358954739485&as_sdt=2005&sciodt=0,5&hl=en) (Cited by X)
 
 </div>
 </div>
