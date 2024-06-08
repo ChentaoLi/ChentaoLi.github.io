@@ -67,8 +67,8 @@ For latest statistics, please refer to [Google profile](https://scholar.google.c
 </div>
 
 # 🏅 Honors and Awards
-- *2024. 6* Outstanding undergraduate graduates of Zhejiang University. 
-- *2022.10* Silver Prize of the International Genetically Engineered Machine Competition (iGEM) []() [[ZJUintl-China 2022, Team leader]](https://2022.igem.wiki/zjuintl-china)
+- *2024. 6* Outstanding undergraduate graduates of Zhejiang University. []() [[Announce ]](images/2024.03.05.png)
+- *2022.10* Silver Prize of the International Genetically Engineered Machine Competition (iGEM). []() [[ZJUintl-China 2022, Team leader]](https://2022.igem.wiki/zjuintl-china)
 
 # 📰 News
 - *2024. 6*   🫡 Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
@@ -95,25 +95,25 @@ For latest statistics, please refer to [Google profile](https://scholar.google.c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">千岛湖</div><img src='images/qiandaohu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">千岛湖</div><img src='images/2024.05.31.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.05.31* ☺️毕业进程完结后的度假！
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZJU BSc Dissertation</div><img src='images/ZJU-BSc-Dissertation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZJU BSc Dissertation</div><img src='images/2024.05.24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.05.24* 😎浙江大学毕业论文提交！
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">小熊收集计划</div><img src='images/xiaoxiong12.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">小熊收集计划</div><img src='images/2024.05.22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.05.22* 😘浙江大学专属毕业小熊与爱丁堡大学专属毕业小熊！收集成功！
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">西安行</div><img src='images/huashan.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">西安行</div><img src='images/2024.05.11.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.05.11* 🤠西安行，登顶华山南峰，五岳之巅！
 </div>
@@ -125,7 +125,7 @@ For latest statistics, please refer to [Google profile](https://scholar.google.c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Edin BSc Dissertation</div><img src='images/Edin-BSc-Dissertation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Edin BSc Dissertation</div><img src='images/2024.04.23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.04.23* 🫠爱丁堡大学毕业论文提交！
 </div>
