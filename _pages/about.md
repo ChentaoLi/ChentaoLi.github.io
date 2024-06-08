@@ -87,130 +87,316 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 - *2020. 7*   😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
 
 # 💻 Blogs
----以下为个人生活---Here are my blogs---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogs</title>
+    <style>
+        .collapsible {
+            background-color: #f1f1f1;
+            color: #444;
+            cursor: pointer;
+            padding: 10px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+        }
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕业</div><img src='images/2024.06.22.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.06.22* 🎓️重新介绍一下，我是浙江大学2024届毕业生！
-</div>
-</div>
+        .active, .collapsible:hover {
+            background-color: #ccc;
+        }
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">千岛湖</div><img src='images/2024.05.31.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.05.31* ☺️毕业进程完结后的度假！
-</div>
-</div>
+        .content {
+            padding: 0 18px;
+            display: none;
+            overflow: hidden;
+            background-color: #f9f9f9;
+        }
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZJU BSc Dissertation</div><img src='images/2024.05.24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.05.24* 😎浙江大学毕业论文提交！
-</div>
-</div>
+        .paper-box {
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+        }
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">小熊收集计划</div><img src='images/2024.05.22.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.05.22* 😘浙江大学专属毕业小熊与爱丁堡大学专属毕业小熊！收集成功！
-</div>
-</div>
+        .paper-box-image {
+            position: relative;
+        }
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">西安行</div><img src='images/2024.05.11.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.05.11* 🤠西安行，登顶华山南峰，五岳之巅！
-</div>
-</div>
+        .badge {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: #333;
+            color: #fff;
+            padding: 5px;
+            border-radius: 5px;
+            font-size: 12px;
+        }
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">西安行</div><img src='images/2024.05.10.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.05.10* 😉西安行，大唐芙蓉园！
-</div>
-</div>
+        .paper-box-text {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Edin BSc Dissertation</div><img src='images/2024.04.23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.04.23* 🫠爱丁堡大学毕业论文提交！
-</div>
-</div>
+<h2>My Blogs</h2>
+<button type="button" class="collapsible">---以下为个人生活---Here are my blogs---</button>
+<div class="content">
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">本科毕业</div>
+                <img src='images/2024.06.22.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.06.22</em> 🎓️重新介绍一下，我是浙江大学2024届毕业生！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">谷歌学术</div><img src='images/2024.04.20.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.04.20* 👻谷歌被引用次数破百纪念！
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">千岛湖</div>
+                <img src='images/2024.05.31.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.05.31</em> ☺️毕业进程完结后的度假！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕业答辩</div><img src='images/2024.04.16.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.04.16* 🫢浙江大学&爱丁堡大学本科毕业答辩！
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">ZJU BSc Dissertation</div>
+                <img src='images/2024.05.24.png' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.05.24</em> 😎浙江大学毕业论文提交！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">张杰演唱会</div><img src='images/2024.04.12.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.04.12* 🤗2024张杰未·LIVE开往1982巡回演唱会（南昌站）！
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">小熊收集计划</div>
+                <img src='images/2024.05.22.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.05.22</em> 😘浙江大学专属毕业小熊与爱丁堡大学专属毕业小熊！收集成功！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">广州行</div><img src='images/2023.12.01.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2023.12.01* 🫣广州行，广州塔！
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">西安行</div>
+                <img src='images/2024.05.11.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.05.11</em> 🤠西安行，登顶华山南峰，五岳之巅！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">卡片集合</div><img src='images/2023.05.26.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2023.05.26* 🫡身份卡集结！
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">西安行</div>
+                <img src='images/2024.05.10.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.05.10</em> 😉西安行，大唐芙蓉园！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">生日快乐</div><img src='images/2022.10.17.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2022.10.17* 🥳20岁生日快乐！
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">Edin BSc Dissertation</div>
+                <img src='images/2024.04.23.png' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.04.23</em> 🫠爱丁堡大学毕业论文提交！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">浙江大学海宁国际校区</div><img src='images/2022.9.15.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2022.9.15* 😎纪念一次浙江大学海宁国际校区的日落。
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">谷歌学术</div>
+                <img src='images/2024.04.20.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.04.20</em> 👻谷歌被引用次数破百纪念！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">发癫日常</div><img src='images/2022.05.02.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2022.05.02* 🥸收集发癫日常~
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">本科毕业答辩</div>
+                <img src='images/2024.04.16.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.04.16</em> 🫢浙江大学&爱丁堡大学本科毕业答辩！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">发癫日常</div><img src='images/2022.04.02.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2022.04.02* 🥸收集发癫日常~
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">张杰演唱会</div>
+                <img src='images/2024.04.12.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2024.04.12</em> 🤗2024张杰未·LIVE开往1982巡回演唱会（南昌站）！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">520</div><img src='images/2021.05.20.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2021.05.20* 🤓属于我的花~
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">广州行</div>
+                <img src='images/2023.12.01.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2023.12.01</em> 🫣广州行，广州塔！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">上海行</div><img src='images/2024.04.02.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2021.04.02* 🥸上海行，收集日常~
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">卡片集合</div>
+                <img src='images/2023.05.26.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2023.05.26</em> 🫡身份卡集结！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">小熊特辑</div><img src='images/2021.03.23.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2021.03.23* 🥸带着小熊一起发癫~
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">生日快乐</div>
+                <img src='images/2022.10.17.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2022.10.17</em> 🥳20岁生日快乐！</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">毅行</div><img src='images/2020.10.11.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2020.10.11* 😫秋季毅行！
-</div>
-</div>
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">浙江大学海宁国际校区</div>
+                <img src='images/2022.9.15.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2022.9.15</em> 😎纪念一次浙江大学海宁国际校区的日落。</p>
+        </div>
+    </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">浙江大学海宁国际校区</div><img src='images/2020.9.15.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2020.9.15* 😎纪念一次浙江大学海宁国际校区的日落。
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">发癫日常</div>
+                <img src='images/2022.05.02.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2022.05.02</em> 🥸收集发癫日常~</p>
+        </div>
+    </div>
+
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">发癫日常</div>
+                <img src='images/2022.04.02.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2022.04.02</em> 🥸收集发癫日常~</p>
+        </div>
+    </div>
+
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">520</div>
+                <img src='images/2021.05.20.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2021.05.20</em> 🤓属于我的花~</p>
+        </div>
+    </div>
+
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">上海行</div>
+                <img src='images/2024.04.02.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2021.04.02</em> 🥸上海行，收集日常~</p>
+        </div>
+    </div>
+
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">小熊特辑</div>
+                <img src='images/2021.03.23.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2021.03.23</em> 🥸带着小熊一起发癫~</p>
+        </div>
+    </div>
+
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">毅行</div>
+                <img src='images/2020.10.11.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2020.10.11</em> 😫秋季毅行！</p>
+        </div>
+    </div>
+
+    <div class='paper-box'>
+        <div class='paper-box-image'>
+            <div>
+                <div class="badge">浙江大学海宁国际校区</div>
+                <img src='images/2020.9.15.jpg' alt="sym" width="100%">
+            </div>
+        </div>
+        <div class='paper-box-text'>
+            <p><em>2020.9.15</em> 😎纪念一次浙江大学海宁国际校区的日落。</p>
 </div>
 </div>
