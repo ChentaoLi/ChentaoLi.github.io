@@ -59,9 +59,11 @@ For lateset stat, please refer to [Google profile](https://scholar.google.com/ci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJBS 2024</div><img src='images/IJBS_2024.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 -	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). Synthetic Cells and Molecules in Cellular Immunotherapy. *International Journal of Biological Sciences*, 20(8), 2833-2859. Doi: 10.7150/ijbs.94346. []() [[Link]](https://doi.org/10.7150/ijbs.94346) [[PDF]](/pdf/4. IJBS_2024.pdf)</div>
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BEHDP 2022</div><img src='images/BEHDP_2022.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
 -	`Li, C.†`, Liu, Z., & Zhou, Y. (2022). CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements. *Highlights in Science, Engineering and Technology*, 8, 54-63. Doi: 10.54097/hset.v8i.1110. []() [[Link]](https://doi.org/10.54097/hset.v8i.1110) [[PDF]](/pdf/1. BEHDP_2022.pdf)</div>
+</div>
 </div>
 
 # 🏅 Honors and Awards
