@@ -31,7 +31,7 @@ My research statistics include:
 - H-index: 1
 
 
-For lateset stat, please refer to [Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
+For latest statistics, please refer to [Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
 
 # 🎓 Educations 
 - *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, The Hong Kong University of Science and Technology, China.**
