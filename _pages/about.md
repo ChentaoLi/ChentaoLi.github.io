@@ -88,7 +88,7 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 
 # 💻 Blogs
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -146,8 +146,8 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 </head>
 <body>
 
-<h2>My Blogs</h2>
-<button type="button" class="collapsible">---以下为个人生活---Here are my blogs---</button>
+<h2>Blogs</h2>
+<button type="button" class="collapsible">---Click to open my blogs---</button>
 <div class="content">
     <div class='paper-box'>
         <div class='paper-box-image'>
