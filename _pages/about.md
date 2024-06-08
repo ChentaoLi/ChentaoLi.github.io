@@ -25,10 +25,12 @@ My research interests include:
 - Immunology
 
 My research statistics include:
-- Research articles 1
-- Review articles 3
-- Google Scholar citations 140
-- H-index 140
+- Research articles: 1
+- Review articles: 3
+- Google Scholar citations: 140
+- H-index: 1
+
+
 For lateset stat, please refer to [Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
 
 # 🎓 Educations 
