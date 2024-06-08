@@ -24,6 +24,11 @@ My research interests include:
 - Epigenetics
 - Immunology
 
+My research statistics include:
+- Research articles 1
+- Review articles 3
+-  <a href='https://scholar.google.com/citations?user=5O51RRAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 
 # 🎓 Educations 
 - *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, The Hong Kong University of Science and Technology, China.**
