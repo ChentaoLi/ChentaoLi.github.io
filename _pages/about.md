@@ -87,9 +87,8 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 - *2020. 7*   😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
 
 # 💻 Blogs
-<div class='blog-section'>
-    <a href='#' onclick='toggleVisibility("blogs");'>---Click to open my blogs---</a>
-    <div id='blogs' style='display:none;'>
+<details>
+<summary>Click to open my blogs</summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕业</div><img src='images/2024.06.22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -217,5 +216,4 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 </div>
 </div>
 
-</div>
-</div>
+</details>
