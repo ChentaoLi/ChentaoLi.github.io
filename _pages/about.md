@@ -62,7 +62,7 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BEHDP 2022</div><img src='images/BEHDP_2022.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	`Li, C.†`, Liu, Z., & Zhou, Y. (2022). CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements. *Highlights in Science, Engineering and Technology*, 8, 54-63. Doi: 10.54097/hset.v8i.1110. []() [[Link]](https://doi.org/10.54097/hset.v8i.1110) [[PDF]](/pdf/1. BEHDP_2022.pdf)
+-	`Li, C.†#`, Liu, Z., Zhou, Y. (2022). CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements. *Highlights in Science, Engineering and Technology*, 8, 54-63. Doi: 10.54097/hset.v8i.1110. []() [[Link]](https://doi.org/10.54097/hset.v8i.1110) [[PDF]](/pdf/1. BEHDP_2022.pdf)
 </div>
 </div>
 
