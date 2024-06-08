@@ -87,63 +87,9 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 - *2020. 7*   😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
 
 # 💻 Blogs
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .collapsible {
-            background-color: #f1f1f1;
-            color: #444;
-            cursor: pointer;
-            padding: 10px;
-            width: 100%;
-            border: none;
-            text-align: left;
-            outline: none;
-            font-size: 15px;
-        }
-
-        .active, .collapsible:hover {
-            background-color: #ccc;
-        }
-
-        .content {
-            padding: 0 18px;
-            display: none;
-            overflow: hidden;
-            background-color: #f9f9f9;
-        }
-
-        .paper-box {
-            margin: 10px 0;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            overflow: hidden;
-        }
-
-        .paper-box-image {
-            position: relative;
-        }
-
-        .badge {
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            background: #333;
-            color: #fff;
-            padding: 5px;
-            border-radius: 5px;
-            font-size: 12px;
-        }
-
-        .paper-box-text {
-            padding: 10px;
-        }
-    </style>
-</head>
-<body>
+<div class='blog-section'>
+    <a href='#' onclick='toggleVisibility("blogs");'>---Click to open my blogs---</a>
+    <div id='blogs' style='display:none;'>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕业</div><img src='images/2024.06.22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -271,22 +217,5 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 </div>
 </div>
 
-<script>
-    var coll = document.getElementsByClassName("collapsible");
-    var i;
-
-    for (i = 0; i < coll.length; i++) {
-        coll[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var content = this.nextElementSibling;
-            if (content.style.display === "block") {
-                content.style.display = "none";
-            } else {
-                content.style.display = "block";
-            }
-        });
-    }
-</script>
-
-</body>
-</html>
+</div>
+</div>
