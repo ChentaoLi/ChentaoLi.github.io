@@ -87,6 +87,7 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 - *2020. 7*   😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
 
 # 💻 Blogs
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -267,7 +268,6 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">浙江大学海宁国际校区</div><img src='images/2020.9.15.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2020.9.15* 😎纪念一次浙江大学海宁国际校区的日落。
-</div>
 </div>
 </div>
 
