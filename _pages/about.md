@@ -36,7 +36,7 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 # 🎓 Educations 
 - *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, The Hong Kong University of Science and Technology, China.**
 - *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> **BSc, Zhejiang University, China.**
-- *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo.jpg" width="30pt"></a> **BSc (Hons), The University of Edinburgh, The United Kingdom.**
+- *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo.jpg" width="30pt"></a> **BSc (Hons), The University of Edinburgh, United Kingdom.**
  
 
 # 📝 Publications 
