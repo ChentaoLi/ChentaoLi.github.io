@@ -27,16 +27,16 @@ My research interests include:
 My research statistics include:
 - Research articles: 1
 - Review articles: 3
-- Google Scholar citations: 140
+- Google Scholar citations: 142
 - H-index: 1
 
 
 For latest statistics, please refer to [My Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
 
 # 🎓 Educations 
-- *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, The Hong Kong University of Science and Technology, China.**
-- *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> **BSc, Zhejiang University, China.**
-- *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo.jpg" width="30pt"></a> **BSc (Hons), The University of Edinburgh, United Kingdom.**
+- *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, Bioscience and Biomedical Engineering, The Hong Kong University of Science and Technology, China.**
+- *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> **BSc, Biomedical Sciences, Zhejiang University, China.**
+- *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo.jpg" width="30pt"></a> **BSc (Hons), Integrative Biomedical Sciences, The University of Edinburgh, United Kingdom.**
  
 
 # 📝 Publications 
@@ -74,7 +74,7 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 - *2024. 6*   🫡 Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
 - *2024. 5*   🥳 Graduated from The University of Edinburgh with the Bachelor's degree with Honours of Integrative Biomedical Sciences.
 - *2024. 5*   😍 Published the outcomes of iGEM on IJBS [[DOI: 10.7150/ijbs.94346]](https://doi.org/10.7150/ijbs.94346).
-- *2024. 4*   🤑 Accepted the PhD offer from The Hong Kong University of Science and Technology (Guangzhou).
+- *2024. 4*   🤑 Accepted the PhD offer in Bioscience and Biomedical Engineering from The Hong Kong University of Science and Technology (Guangzhou).
 - *2024. 2*   😍 Published the first research paper on iScience [[DOI: 10.1016/j.isci.2024.109126]](https://doi.org/10.1016/j.isci.2024.109126).
 - *2023. 9*   😭 Tried to apply for oversea PhD programs but all applications were all rejected.
 - *2023. 6*   😍 Published the first SCI paper on STTT [[DOI: 10.1038/s41392-023-01502-8]](https://doi.org/10.1038/s41392-023-01502-8).
@@ -93,6 +93,30 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕业</div><img src='images/2024.06.22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.06.22* 🎓️重新介绍一下，我是浙江大学2024届毕业生！
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">云南行</div><img src='images/2024.06.16.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.06.16* 🌊云南行 · 洱海！
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">云南行</div><img src='images/2024.06.15.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.06.15* 🦌云南行 · 普达措国家公园！
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">云南行</div><img src='images/2024.06.14.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.06.14* 🏕云南行 · 独克宗古城！
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">云南行</div><img src='images/2024.06.13.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2024.06.13* 🏔︎云南行 · 玉龙雪山！
 </div>
 </div>
 
