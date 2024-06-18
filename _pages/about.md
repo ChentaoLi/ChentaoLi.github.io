@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a *PhD student* of Bioscience and Biomedical Engineering at **The Hong Kong University of Science and Technology (Guangzhou)**.  I have obtained the *Bachelor's degree of Biomedical Sciences* from **Zhejiang University** and the *Bachelor's degree with Honours of Integrative Biomedical Sciences* from **The University of Edinburgh**. 
+My name is Chentao LI (李晨涛). I'm currently a *PhD student* of Bioscience and Biomedical Engineering at **The Hong Kong University of Science and Technology (Guangzhou)**.  I have obtained the *Bachelor's degree of Biomedical Sciences* from **Zhejiang University** and the *Bachelor's degree with Honours of Integrative Biomedical Sciences* from **The University of Edinburgh**. 
 
 
 My research interests include: 
@@ -89,14 +89,15 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 - *2020. 7*   😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
 
 # 💻 Blogs
-<details>
-<summary>Click to open my blogs</summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕业</div><img src='images/2024.06.22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.06.22* 🎓️重新介绍一下，我是浙江大学2024届毕业生！
 </div>
 </div>
+
+<details>
+<summary>Click here to open all my blogs</summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">云南行</div><img src='images/2024.06.16.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
