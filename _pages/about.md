@@ -68,11 +68,13 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 
 # 🏅 Honors and Awards
 - *2024. 6* Outstanding undergraduate graduates of Zhejiang University. []() [[Announcement]](images/2024.03.05.png)
-- *2022.10* Silver Prize of the International Genetically Engineered Machine Competition (iGEM). []() [[ZJUintl-China 2022, Team leader]](https://2022.igem.wiki/zjuintl-china)
+- *2022.10* Silver Prize of the International Genetically Engineered Machine Competition (iGEM). []() [ZJUintl-China 2022](https://2022.igem.wiki/zjuintl-china) [[Certificates]](images/Prize_iGEM-2022-certificates.png)
+
+
 
 # 📰 News
 - *2024. 6*   🫡 Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
-- *2024. 5*   🥳 Graduated from The University of Edinburgh with the Bachelor's degree with Honours of Integrative Biomedical Sciences.
+- *2024. 6*   🥳 Was awarded the Bachelor's degree with Honours of Integrative Biomedical Sciences by The University of Edinburgh.
 - *2024. 5*   😍 Published the outcomes of iGEM on IJBS [[DOI: 10.7150/ijbs.94346]](https://doi.org/10.7150/ijbs.94346).
 - *2024. 4*   🤑 Accepted the PhD offer in Bioscience and Biomedical Engineering from The Hong Kong University of Science and Technology (Guangzhou).
 - *2024. 2*   😍 Published the first research paper on iScience [[DOI: 10.1016/j.isci.2024.109126]](https://doi.org/10.1016/j.isci.2024.109126).
@@ -122,7 +124,7 @@ For latest statistics, please refer to [My Google profile](https://scholar.googl
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">千岛湖</div><img src='images/2024.05.31.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2024.05.31* ☺️毕业进程完结后的度假！
+- *2024.05.31* 🌊毕业进程完结后的度假！
 </div>
 </div>
 
