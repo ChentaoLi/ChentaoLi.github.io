@@ -31,13 +31,21 @@ My research statistics include:
 - H-index: 1
 
 For latest statistics, please refer to [my Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
+
 <br>
 <br>
 # 🎓 Educations 
 - *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, Bioscience and Biomedical Engineering, The Hong Kong University of Science and Technology, China.**
 - *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> **BSc, Biomedical Sciences, Zhejiang University, China.**
 - *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo.jpg" width="30pt"></a> **BSc (Hons), Integrative Biomedical Sciences, The University of Edinburgh, United Kingdom.**
- <br>
+
+<br>
+<br>
+# 🧑🏻‍🔬 Projects 
+### Current Projects
+Description: Brief description of the project and its objectives. Include key methodologies and any significant findings or outcomes.
+
+<br>
 <br>
 # 📝 Publications 
 
@@ -250,10 +258,11 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 <br>
 <br>
 # 📧 Contact
-**Corresponding Information**
+**Corresponding Information** <br>
 lichentao2002@outlook.com <br>
 Bioscience and Biomedical Engineering Thrust, The Hong Kong University of Science and Technology (Guangzhou), Nansha, Guangzhou, 511458, China.
 
+<br>
 **Previous Corresponding Information**
 - chentao.20@intl.zju.edu.cn <br>
 Zhejiang University-University of Edinburgh Institute, Zhejiang University School of Medicine, Zhejiang University, Haining, China.
