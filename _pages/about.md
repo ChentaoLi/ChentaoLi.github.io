@@ -33,7 +33,6 @@ My research statistics include:
 For latest statistics, please refer to [my Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -51,7 +50,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
         }
         .slideshow-img {
             vertical-align: middle;
-            width: 100%;
+            width: 50%;
             height: 600px; /* 设置固定高度 */
             object-fit: cover; /* 保持图片比例并裁剪 */
         }
@@ -121,15 +120,15 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
     </div>
 
     <div class="mySlides fade">
-        <img src="images/2024.06.13.jpg" class="slideshow-img" alt="Slide 4">
+        <img src="images/2024.05.31.jpg" class="slideshow-img" alt="Slide 4">
     </div>
 
     <div class="mySlides fade">
-        <img src="images/2024.05.31.jpg" class="slideshow-img" alt="Slide 5">
+        <img src="images/2024.05.10.jpg" class="slideshow-img" alt="Slide 5">
     </div>
 
     <div class="mySlides fade">
-        <img src="images/2024.05.24.png" class="slideshow-img" alt="Slide 6">
+        <img src="images/2024.04.12.jpg" class="slideshow-img" alt="Slide 6">
     </div>
 
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
