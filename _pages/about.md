@@ -33,7 +33,6 @@ My research statistics include:
 
 For latest statistics, please refer to [my Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -106,27 +105,27 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 <div class="slideshow-container">
 
     <div class="mySlides fade">
-        <img src="2024.06.16.jpg" style="width:100%">
+        <img src="images/2024.06.16.jpg" style="width:100%">
     </div>
 
     <div class="mySlides fade">
-        <img src="2024.06.15.jpg" style="width:100%">
+        <img src="images/2024.06.15.jpg" style="width:100%">
     </div>
 
     <div class="mySlides fade">
-        <img src="2024.06.14.jpg" style="width:100%">
+        <img src="images/2024.06.14.jpg" style="width:100%">
     </div>
 
     <div class="mySlides fade">
-        <img src="2024.06.13.jpg" style="width:100%">
+        <img src="images/2024.06.13.jpg" style="width:100%">
     </div>
 
     <div class="mySlides fade">
-        <img src="2024.05.31.jpg" style="width:100%">
+        <img src="images/2024.05.31.jpg" style="width:100%">
     </div>
 
     <div class="mySlides fade">
-        <img src="2024.05.24.jpg" style="width:100%">
+        <img src="images/2024.05.24.jpg" style="width:100%">
     </div>
 
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
