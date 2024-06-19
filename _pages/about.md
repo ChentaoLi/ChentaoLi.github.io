@@ -30,9 +30,10 @@ My research statistics include:
 - Google Scholar citations: 146
 - H-index: 1
 
-
 For latest statistics, please refer to [my Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
 
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -48,7 +49,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
         .mySlides {
             display: none;
         }
-        img {
+        .slideshow-img {
             vertical-align: middle;
             width: 100%;
             height: 600px; /* 设置固定高度 */
@@ -108,27 +109,27 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 <div class="slideshow-container">
 
     <div class="mySlides fade">
-        <img src="images/2024.06.16.jpg" style="width:100%">
+        <img src="images/2024.06.16.jpg" class="slideshow-img" alt="Slide 1">
     </div>
 
     <div class="mySlides fade">
-        <img src="images/2024.06.15.jpg" style="width:100%">
+        <img src="images/2024.06.15.jpg" class="slideshow-img" alt="Slide 2">
     </div>
 
     <div class="mySlides fade">
-        <img src="images/2024.06.14.jpg" style="width:100%">
+        <img src="images/2024.06.14.jpg" class="slideshow-img" alt="Slide 3">
     </div>
 
     <div class="mySlides fade">
-        <img src="images/2024.06.13.jpg" style="width:100%">
+        <img src="images/2024.06.13.jpg" class="slideshow-img" alt="Slide 4">
     </div>
 
     <div class="mySlides fade">
-        <img src="images/2024.05.31.jpg" style="width:100%">
+        <img src="images/2024.05.31.jpg" class="slideshow-img" alt="Slide 5">
     </div>
 
     <div class="mySlides fade">
-        <img src="images/2024.05.24.png" style="width:100%">
+        <img src="images/2024.05.24.png" class="slideshow-img" alt="Slide 6">
     </div>
 
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -178,6 +179,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 
 </body>
 </html>
+
 
 
 # 🎓 Educations 
