@@ -42,8 +42,30 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 <br>
 <br>
 # 🧑🏻‍🔬 Projects 
-### Current Projects
-Description: Brief description of the project and its objectives. Include key methodologies and any significant findings or outcomes.
+#### Undergraduate Thesis Project
+**Title:** Exploring the efficacy of CAR-T cells infected by recombinant Vaccinia Virus (rVACV) with RIPK3 in solid tumors  
+**Period:** 2024.1 - 2024.4  
+**Supervisor:** Prof. Francis Ka-ming Chan, Liangzhu Laboratory, Zhejiang University  
+
+#### Anti-Poxvirus Drug
+**Title:** Exploring the mechanisms of Diphyllin in anti-poxvirus infection discovered in Chinese drug screening
+**Period:** 2023.4 - 2023.9  
+**Supervisor:** Prof. Francis Ka-ming Chan, Liangzhu Laboratory, Zhejiang University; Prof. Zhijun Liu, The First Affiliated Hospital of Xi'an Jiaotong University 
+
+#### iGEM 
+**Title:** Engineered CAR-T cells with negative feedback switches reverse senescence-associated phenotype  
+**Period:** 2022.3 - 2022.10   
+**Supervisor:** Prof. He Huang & Dr. Xia Li, The First Affiliated Hospital, Zhejiang University School of Medicine; Prof. Xianghua Li, Zhejiang University-University of Edinburgh Institute  
+
+#### Graft-Versus-Host Disease (GvHD)
+**Title:** Exploring the effect of donor age on the development of Graft-Versus-Host Disease (GvHD) in recipients after hematopoietic stem cell transplantation (HSCt)  
+**Period:** 2021.9 - 2022.6  
+**Supervisor:** Prof. He Huang & Dr. Xia Li, The First Affiliated Hospital, Zhejiang University School of Medicine  
+
+#### CRISPR/Cas9 Gene Editing
+**Title:** CRISPR/Cas9-Knock GFP gene into AURKA gene of HeLa cell line  
+**Period:** 2021.6 - 2021.9  
+**Supervisor:** Prof. Kuan Yoow Chan, Zhejiang University-University of Edinburgh Institute  
 
 <br>
 <br>
