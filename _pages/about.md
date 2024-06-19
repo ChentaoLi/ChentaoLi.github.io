@@ -33,6 +33,150 @@ My research statistics include:
 
 For latest statistics, please refer to [my Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {box-sizing: border-box}
+        body {font-family: Verdana, sans-serif; margin:0}
+        .slideshow-container {
+            max-width: 1000px;
+            position: relative;
+            margin: auto;
+        }
+        .mySlides {
+            display: none;
+        }
+        img {
+            vertical-align: middle;
+        }
+        .prev, .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            padding: 16px;
+            margin-top: -22px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+        .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+        }
+        .prev:hover, .next:hover {
+            background-color: rgba(0,0,0,0.8);
+        }
+        .dot-container {
+            text-align: center;
+            padding: 20px;
+            background: #ddd;
+        }
+        .dot {
+            cursor: pointer;
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+        .active, .dot:hover {
+            background-color: #717171;
+        }
+        @keyframes fade {
+            from {opacity: .4} 
+            to {opacity: 1}
+        }
+        .fade {
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+    </style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+    <div class="mySlides fade">
+        <img src="2024.06.16.jpg" style="width:100%">
+    </div>
+
+    <div class="mySlides fade">
+        <img src="2024.06.15.jpg" style="width:100%">
+    </div>
+
+    <div class="mySlides fade">
+        <img src="2024.06.14.jpg" style="width:100%">
+    </div>
+
+    <div class="mySlides fade">
+        <img src="2024.06.13.jpg" style="width:100%">
+    </div>
+
+    <div class="mySlides fade">
+        <img src="2024.05.31.jpg" style="width:100%">
+    </div>
+
+    <div class="mySlides fade">
+        <img src="2024.05.24.jpg" style="width:100%">
+    </div>
+
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div class="dot-container">
+    <span class="dot" onclick="currentSlide(1)"></span> 
+    <span class="dot" onclick="currentSlide(2)"></span> 
+    <span class="dot" onclick="currentSlide(3)"></span> 
+    <span class="dot" onclick="currentSlide(4)"></span> 
+    <span class="dot" onclick="currentSlide(5)"></span> 
+    <span class="dot" onclick="currentSlide(6)"></span> 
+</div>
+
+<script>
+    let slideIndex = 0;
+    showSlides();
+
+    function showSlides() {
+        let i;
+        let slides = document.getElementsByClassName("mySlides");
+        let dots = document.getElementsByClassName("dot");
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+        }
+        slideIndex++;
+        if (slideIndex > slides.length) {slideIndex = 1}    
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex-1].style.display = "block";  
+        dots[slideIndex-1].className += " active";
+        setTimeout(showSlides, 2000); // Change image every 2 seconds
+    }
+
+    function plusSlides(n) {
+        showSlides(slideIndex += n);
+    }
+
+    function currentSlide(n) {
+        showSlides(slideIndex = n);
+    }
+</script>
+
+</body>
+</html>
+
 # 🎓 Educations 
 - *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, Bioscience and Biomedical Engineering, The Hong Kong University of Science and Technology, China.**
 - *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> **BSc, Biomedical Sciences, Zhejiang University, China.**
