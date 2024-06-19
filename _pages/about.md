@@ -50,6 +50,9 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
         }
         img {
             vertical-align: middle;
+            width: 100%;
+            height: 600px; /* 设置固定高度 */
+            object-fit: cover; /* 保持图片比例并裁剪 */
         }
         .prev, .next {
             cursor: pointer;
@@ -125,7 +128,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
     </div>
 
     <div class="mySlides fade">
-        <img src="images/2024.05.24.jpg" style="width:100%">
+        <img src="images/2024.05.24.png" style="width:100%">
     </div>
 
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -161,7 +164,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
         }
         slides[slideIndex-1].style.display = "block";  
         dots[slideIndex-1].className += " active";
-        setTimeout(showSlides, 2000); // Change image every 2 seconds
+        setTimeout(showSlides, 8000); // Change image every 8 seconds
     }
 
     function plusSlides(n) {
@@ -175,6 +178,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 
 </body>
 </html>
+
 
 # 🎓 Educations 
 - *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, Bioscience and Biomedical Engineering, The Hong Kong University of Science and Technology, China.**
