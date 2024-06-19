@@ -31,13 +31,14 @@ My research statistics include:
 - H-index: 1
 
 For latest statistics, please refer to [my Google profile](https://scholar.google.com/citations?hl=en&user=5O51RRAAAAAJ)
-
+<br>
+<br>
 # 🎓 Educations 
 - *2024.09 - now*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo.jpg" width="30pt"></a> **PhD, Bioscience and Biomedical Engineering, The Hong Kong University of Science and Technology, China.**
 - *2020.09 - 2024.06*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo.jpg" width="30pt"></a> **BSc, Biomedical Sciences, Zhejiang University, China.**
 - *2020.09 - 2024.05*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo.jpg" width="30pt"></a> **BSc (Hons), Integrative Biomedical Sciences, The University of Edinburgh, United Kingdom.**
- 
-
+ <br>
+<br>
 # 📝 Publications 
 
 † Co-First Author, # Corresponding author
@@ -64,13 +65,14 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 -	`Li, C.†#`, Liu, Z.†, Zhou, Y.† (2022). CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements. *Highlights in Science, Engineering and Technology*, 8, 54-63. Doi: 10.54097/hset.v8i.1110. []() [[Link]](https://doi.org/10.54097/hset.v8i.1110) [[PDF]](/pdf/1. BEHDP_2022.pdf)
 </div>
 </div>
-
+<br>
+<br>
 # 🏅 Honors and Awards
 - *2024. 6* Outstanding undergraduate graduates of Zhejiang University. []() [[Announcement]](images/2024.03.05.png)
 - *2022.10* Silver Prize of the International Genetically Engineered Machine Competition (iGEM). []() [ZJUintl-China 2022](https://2022.igem.wiki/zjuintl-china) [[Certificates]](images/Prize_iGEM-2022-certificates.png)
 
-
-
+<br>
+<br>
 # 📰 News
 - *2024. 6*   🫡 Graduated from Zhejiang University with the Bachelor's degree of  Biomedical Sciences.
 - *2024. 6*   🥳 Was awarded the Bachelor's degree with Honours of Integrative Biomedical Sciences by The University of Edinburgh.
@@ -87,6 +89,8 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 - *2020. 9*   😜 Enrolled in the Biomedical Sciences BSc program of Zhejiang University.
 - *2020. 7*   😱 Participated in the National Higher Education Entrance Examination (deferred due to the COVID-19 epidemic).
 
+<br>
+<br>
 # 💻 Blogs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕业</div><img src='images/2024.06.22.jpg' alt="sym" width="100%"></div></div>
@@ -243,7 +247,8 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 </div>
 
 </details>
-
+<br>
+<br>
 # 📧 Contact
 **Corresponding Information**
 lichentao2002@outlook.com 
