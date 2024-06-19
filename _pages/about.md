@@ -243,3 +243,23 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 </div>
 
 </details>
+
+# 📧 Contact
+**Corresponding Information**
+lichentao2002@outlook.com
+Bioscience and Biomedical Engineering Thrust, The Hong Kong University of Science and Technology (Guangzhou), Nansha, Guangzhou, 511458, China.
+
+**Previous Corresponding Information**
+- chentao.20@intl.zju.edu.cn
+Zhejiang University-University of Edinburgh Institute, Zhejiang University School of Medicine, Zhejiang University, Haining, China.
+
+
+- c.li-80@sms.ed.ac.uk / s2139963@ed.ac.uk
+College of Medicine and Veterinary Medicine, The University of Edinburgh, Edinburgh, United Kingdom.
+
+
+- lichentao@zju.edu.cn / 3200110189@zju.edu.cn
+Liangzhu Laboratory, Zhejiang University Medical Center, 1369 West Wenyi Road, Hangzhou, China.
+
+
+
