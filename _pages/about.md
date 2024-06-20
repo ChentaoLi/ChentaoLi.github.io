@@ -82,6 +82,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 - *2024. 6* Outstanding undergraduate graduates of Zhejiang University. []() [[Announcement]](images/2024.03.05.png)
 - *2022.10* Silver Prize of the International Genetically Engineered Machine Competition (iGEM). []() [[Certificates]](images/Prize_iGEM-2022-certificates.png) 
 
+
 <br>
 <br>
 # 🧑🏻‍🔬 Projects 
@@ -109,6 +110,16 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 **Title:** CRISPR/Cas9-Knock GFP gene into AURKA gene of HeLa cell line  
 **Period:** 2021.6 - 2021.9  
 **Supervisor:** Prof. Kuan Yoow Chan, Zhejiang University-University of Edinburgh Institute  
+
+<br>
+<br>
+# 🧑🏻‍🔬Conferences
+- *2024* Cell Death and Immunity Conference
+- *2023* Symposium on "Therapeutic Immune Cell Frontier Technology and Clinical Application"
+- *2023*  Cell Research Symposium: Hematology and Cellular Therapy
+- *2022*  Chinese Congress on Oncology
+- *2022*  The 9th China-France Symposium in Hematology Annual Summit
+- *2022*  Annual Conference of The Society for Hematology, Zhejiang Medical Association
 
 <br>
 <br>
