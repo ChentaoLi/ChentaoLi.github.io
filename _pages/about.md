@@ -47,26 +47,31 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 ## Research 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/iScience_2024_HSCT.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	Li, X.†, Zhang, W.†, Wang, Y.†, `Li, C.†`, Wu, Y., Shang, Y., Lin, H., Li, Y., Wang, Y., Zeng, X., Cen, Z., Lai, X., Luo, Y.#, Qian, P.#, Huang, H.# (2024). Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD and damage the aged HSCs. *iScience*. Doi: 10.1016/j.isci.2024.109126. []() [[Link]](https://doi.org/10.1016/j.isci.2024.109126) [[PDF]](/pdf/3. iScience_2024.pdf)
+-	Li, X.†, Zhang, W.†, Wang, Y.†, `Li, C.†`, Wu, Y., Shang, Y., Lin, H., Li, Y., Wang, Y., Zeng, X., Cen, Z., Lai, X., Luo, Y.#, Qian, P.#, Huang, H.# (2024). Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD and damage the aged HSCs. *iScience*. Doi: 10.1016/j.isci.2024.109126. []() [[Link]](https://doi.org/10.1016/j.isci.2024.109126) [[PDF]](/pdf/3. iScience_2024.pdf) <br>
+**Abstract:** Aging is considered a critical factor of poor prognosis in allogenic hemopoietic stem cell transplantation (allo-HSCT). To elucidate the underlying mechanisms, we comprehensively reintegrated our clinical data from patients after allo-HSCT and public single-cell transcriptomic profile from post-allo-HSCT and healthy individuals, demonstrating that old donors were more prone to acute GVHD (aGVHD) with pronounced inflammation accumulation and worse overall survival (OS). We also found the presence of inflammation-related CXCL2+ HSC subpopulation during aging with significantly enriched pro-inflammatory pathways. Shifting attention to the HSC microenvironment, we deciphered that IL-1/IL-6 and TRAIL (i.e., TNFSF10) ligand‒receptor pair serves as the crucial bridge between CD14/CD16 monocytes and hematopoietic stem/progenitor cells (HSPCs). The profound upregulation of these signaling pathways during aging finally causes HSC dysfunction and lineage-biased differentiation. Our findings provide the theoretical basis for achieving tailored GVHD management and enhancing allo-HSCT regimens efficacy for aged donors.
 </div>
 </div>
 
 ## Review
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">STTT 2023</div><img src='images/STTT_2023.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). Aging and Inflammation: Signaling Pathways and Intervention Therapies, *Signal Transduction and Targeted Therapy*. Doi: 10.1038/s41392-023-01502-8. []() [[Link]](https://doi.org/10.1038/s41392-023-01502-8) [[PDF]](/pdf/2. STTT_2023.pdf)
+-	Li, X.†, `Li, C.†`, Zhang, W.†, Wang, Y.†, Qian, P.#, Huang, H.# (2023). Aging and Inflammation: Signaling Pathways and Intervention Therapies, *Signal Transduction and Targeted Therapy*. Doi: 10.1038/s41392-023-01502-8. []() [[Link]](https://doi.org/10.1038/s41392-023-01502-8) [[PDF]](/pdf/2. STTT_2023.pdf)  <br>
+**Abstract:** Aging is characterized by systemic chronic inflammation, which is accompanied by cellular senescence, immunosenescence, organ dysfunction, and age-related diseases. Given the multidimensional complexity of aging, there is an urgent need for a systematic organization of inflammaging through dimensionality reduction. Factors secreted by senescent cells, known as the senescence-associated secretory phenotype (SASP), promote chronic inflammation and can induce senescence in normal cells. At the same time, chronic inflammation accelerates the senescence of immune cells, resulting in weakened immune function and an inability to clear senescent cells and inflammatory factors, which creates a vicious cycle of inflammation and senescence. Persistently elevated inflammation levels in organs such as the bone marrow, liver, and lungs cannot be eliminated in time, leading to organ damage and aging-related diseases. Therefore, inflammation has been recognized as an endogenous factor in aging, and the elimination of inflammation could be a potential strategy for anti-aging. Here we discuss inflammaging at the molecular, cellular, organ, and disease levels, and review current aging models, the implications of cutting-edge single cell technologies, as well as anti-aging strategies. Since preventing and alleviating aging-related diseases and improving the overall quality of life are the ultimate goals of aging research, our review highlights the critical features and potential mechanisms of inflammation and aging, along with the latest developments and future directions in aging research, providing a theoretical foundation for novel and practical anti-aging strategies.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJBS 2024</div><img src='images/IJBS_2024.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). Synthetic Cells and Molecules in Cellular Immunotherapy. *International Journal of Biological Sciences*, 20(8), 2833-2859. Doi: 10.7150/ijbs.94346. []() [[Link]](https://doi.org/10.7150/ijbs.94346) [[PDF]](/pdf/4. IJBS_2024.pdf)
+-	Lin, H.†, `Li, C.†`, Zhang, W.†, Wu, B.†, Wang, Y., Wang, S., Wang, D.#, Li, X.#, Huang, H.# (2024). Synthetic Cells and Molecules in Cellular Immunotherapy. *International Journal of Biological Sciences*, 20(8), 2833-2859. Doi: 10.7150/ijbs.94346. []() [[Link]](https://doi.org/10.7150/ijbs.94346) [[PDF]](/pdf/4. IJBS_2024.pdf)  <br>
+**Abstract:** Cellular immunotherapy has emerged as an exciting strategy for cancer treatment, as it aims to enhance the body's immune response to tumor cells by engineering immune cells and designing synthetic molecules from scratch. Because of the cytotoxic nature, abundance in peripheral blood, and maturation of genetic engineering techniques, T cells have become the most commonly engineered immune cells to date. Represented by chimeric antigen receptor (CAR)-T therapy, T cell-based immunotherapy has revolutionized the clinical treatment of hematological malignancies. However, serious side effects and limited efficacy in solid tumors have hindered the clinical application of cellular immunotherapy. To address these limitations, various innovative strategies regarding synthetic cells and molecules have been developed. On one hand, some cytotoxic immune cells other than T cells have been engineered to explore the potential of targeted elimination of tumor cells, while some adjuvant cells have also been engineered to enhance the therapeutic effect. On the other hand, diverse synthetic cellular components and molecules are added to engineered immune cells to regulate their functions, promoting cytotoxic activity and restricting side effects. Moreover, novel bioactive materials such as hydrogels facilitating the delivery of therapeutic immune cells have also been applied to improve the efficacy of cellular immunotherapy. This review summarizes the innovative strategies of synthetic cells and molecules currently available in cellular immunotherapies, discusses the limitations, and provides insights into the next generation of cellular immunotherapies.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BEHDP 2022</div><img src='images/BEHDP_2022.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	`Li, C.†#`, Liu, Z.†, Zhou, Y.† (2022). CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements. *Highlights in Science, Engineering and Technology*, 8, 54-63. Doi: 10.54097/hset.v8i.1110. []() [[Link]](https://doi.org/10.54097/hset.v8i.1110) [[PDF]](/pdf/1. BEHDP_2022.pdf)
+-	`Li, C.†#`, Liu, Z.†, Zhou, Y.† (2022). CAR-T Immunotherapy to Beat Solid Tumors: From Challenges to Improvements. *Highlights in Science, Engineering and Technology*, 8, 54-63. Doi: 10.54097/hset.v8i.1110. []() [[Link]](https://doi.org/10.54097/hset.v8i.1110) [[PDF]](/pdf/1. BEHDP_2022.pdf)  <br>
+**Abstract:** Chimeric antigen receptor T (CAR-T) cell immunotherapy shows potential and guarantee for clinical application in solid tumor treatment, although a section of difficulties must be overcome. Compared with conventional antitumor therapies, the advantages of CAR-T cell treatment include high specificity, great killing power, and long-term effectiveness. But various difficulties in treating solid tumors by CAR-T immunotherapy include intracellular signaling of CARs, immune escape due to antigenic heterogeneity of malignant tumors, physical or cytokine barriers that prevent CAR-T cell entry or limit their persistence, tumor microenvironment of other immunosuppressive molecules, and side effects. This paper describes CAR-T immunotherapy's mechanisms, development, and applications and discusses the status, difficulties, solutions, and future directions of treating solid tumors by CAR-T immunotherapy.
 </div>
 </div>
+
 <br>
 <br>
 # 🏅 Honors and Awards
@@ -91,7 +96,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 **Period:** 2022.3 - 2022.10   
 **Supervisor:** Prof. He Huang & Dr. Xia Li, The First Affiliated Hospital, Zhejiang University School of Medicine; Prof. Xianghua Li, Zhejiang University-University of Edinburgh Institute  
 
-## Graft-Versus-Host Disease (GvHD)
+## Graft-versus-Host Disease 
 **Title:** Exploring the effect of donor age on the development of Graft-Versus-Host Disease (GvHD) in recipients after hematopoietic stem cell transplantation (HSCt)  
 **Period:** 2021.9 - 2022.6  
 **Supervisor:** Prof. He Huang & Dr. Xia Li, The First Affiliated Hospital, Zhejiang University School of Medicine  
@@ -129,14 +134,14 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 </div>
 </div>
 
-<details>
-<summary>Click here to open all my blogs</summary>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">云南行</div><img src='images/2024.06.16.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2024.06.16* 🌊云南行 · 洱海！
 </div>
 </div>
+
+<details>
+<summary>Click here to open all my blogs</summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">云南行</div><img src='images/2024.06.15.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -283,19 +288,3 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 **Corresponding Information** <br>
 lichentao2002@outlook.com <br>
 Bioscience and Biomedical Engineering Thrust, The Hong Kong University of Science and Technology (Guangzhou), Nansha, Guangzhou, 511458, China.
-
-<br>
-**Previous Corresponding Information**
-- chentao.20@intl.zju.edu.cn <br>
-Zhejiang University-University of Edinburgh Institute, Zhejiang University School of Medicine, Zhejiang University, Haining, China.
-
-
-- c.li-80@sms.ed.ac.uk / s2139963@ed.ac.uk <br>
-College of Medicine and Veterinary Medicine, The University of Edinburgh, Edinburgh, United Kingdom.
-
-
-- lichentao@zju.edu.cn / 3200110189@zju.edu.cn <br>
-Liangzhu Laboratory, Zhejiang University Medical Center, 1369 West Wenyi Road, Hangzhou, China.
-
-
-
