@@ -79,7 +79,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 <br>
 <br>
 # 🏅 Honors and Awards
-- *2024. 6* Outstanding undergraduate graduates of Zhejiang University. []() [[Announcement]](images/2024.03.05.png)
+- *2024. 6* Outstanding undergraduate graduates of Zhejiang University. []() [[Certificates]](images/浙江大学优秀毕业生.jpeg)
 - *2022.10* Silver Prize of the International Genetically Engineered Machine Competition (iGEM). []() [[Certificates]](images/Prize_iGEM-2022-certificates.png) 
 
 
