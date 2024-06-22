@@ -92,7 +92,7 @@ For latest statistics, please refer to [my Google profile](https://scholar.googl
 **Supervisor:** Prof. Francis Ka-ming Chan, Liangzhu Laboratory, Zhejiang University  
 
 ## Anti-Poxvirus Drug
-**Title:** Exploring the mechanisms of Diphyllin in anti-poxvirus infection discovered in Chinese drug screening 
+**Title:** Exploring the mechanisms of Diphyllin in anti-poxvirus infection discovered in Chinese drug screening  
 **Period:** 2023.4 - 2023.9  
 **Supervisor:** Prof. Francis Ka-ming Chan, Liangzhu Laboratory, Zhejiang University; Prof. Zhijun Liu, The First Affiliated Hospital of Xi'an Jiaotong University 
 
