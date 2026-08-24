@@ -56,8 +56,20 @@ html[data-experience="unified"] .life-timeline li {
   justify-items: center;
   gap: .15rem;
   min-width: 0;
+  min-height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: none !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  transform: none !important;
   color: #e8f5ff;
   text-align: center;
+}
+html[data-experience="unified"] .life-timeline li::after {
+  display: none !important;
 }
 html[data-experience="unified"] .life-timeline li::before {
   content: "";

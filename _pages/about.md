@@ -111,14 +111,14 @@ redirect_from:
 <!-- ============================================================= -->
 
 <section id="publications" class="world-section" data-world-section="publications" data-archive="04" data-tags="一作 IF≈113 · 一区×3 · 共同作者×2" markdown="1">
-# 📝 学术
+# 📝 论文
 
-碎碎念：我的科研生涯已经结束啦！沉浮实验室5年，做过了好多好多实验。以前读博的勇气源于对于学术理想的追崇，后来的退堂鼓来源于对于人生的重新定义，其实一直做实验没有优秀的产出在一个要求极高但收益极低的专业让人很难不怀疑自己的价值。Anyway，我也算对于学术有了一些贡献！
+碎碎念：沉浮实验室5年，做过了好多好多实验，对于人生的重新定义就是大胆跳出舒适区。
 
-> 一作累计影响因子 ≈ 113，含中科院一区期刊 3 篇（STTT、CCS 2026、IJBS）；单篇最高被引 1,700+ 次。
+> 一作累计影响因子 ≈ 113，含中科院一区期刊 3 篇；单篇最高被引 1,700+ 次。
 
 <div class='paper-box publication' data-pub="1"><div class='paper-box-image'><div><div class="badge">iScience 2024</div><img src='images/CCS_2026_Diphyllin.jpg' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
--	第一作者（共同） **Targeting endolysosomal acidification inhibits poxvirus entry and replication**. *Cell communication and signaling*. []() [[论文链接]](https://doi.org/10.1186/s12964-026-02705-6) [[全文 PDF]](/pdf/6. CCS_2026.pdf) <br>
+-	第一作者（共同） **Targeting endolysosomal acidification inhibits poxvirus entry and replication**. *Cell communication and signaling*. DOI: 10.1186/s12964-026-02705-6. []() [[论文链接]](https://doi.org/10.1186/s12964-026-02705-6) [[全文 PDF]](/pdf/6. CCS_2026.pdf) <br>
 <br>
 我们发现Diphyllin是一种广谱抗痘病毒药物，其作用机制是靶向宿主内溶酶体的酸化，加之其与TMEM175激活产生的协同作用，凸显了调节宿主pH值作为治疗策略的重要性。
 </div>

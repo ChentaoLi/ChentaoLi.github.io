@@ -406,3 +406,15 @@
 127.0.0.1 - - [24/Aug/2026 21:18:42] "GET /images/life-2025-01-macau.jpg HTTP/1.1" 304 -
 127.0.0.1 - - [24/Aug/2026 21:18:42] "GET /images/life-2024-03.jpg HTTP/1.1" 304 -
 127.0.0.1 - - [24/Aug/2026 21:18:42] "GET /images/lct-pig-turtle-q.png HTTP/1.1" 304 -
+127.0.0.1 - - [24/Aug/2026 21:21:40] "GET /?revision=avatar-edge-fade-v3 HTTP/1.1" 304 -
+127.0.0.1 - - [24/Aug/2026 21:21:40] "GET /images/virtual-avatar-v7-cutout.png HTTP/1.1" 304 -
+127.0.0.1 - - [24/Aug/2026 21:21:40] "GET /assets/css/main.css HTTP/1.1" 304 -
+127.0.0.1 - - [24/Aug/2026 21:23:09] "GET /?revision=timeline-no-cards HTTP/1.1" 200 -
+127.0.0.1 - - [24/Aug/2026 21:23:27] "GET /?revision=timeline-no-cards HTTP/1.1" 304 -
+127.0.0.1 - - [24/Aug/2026 21:23:28] "GET /assets/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Aug/2026 21:37:42] "GET /?revision=paper-copy-v1 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Aug/2026 21:40:42] "GET /?revision=paper-note-v2 HTTP/1.1" 200 -
+127.0.0.1 - - [24/Aug/2026 21:41:18] "GET /?revision=timeline-no-cards HTTP/1.1" 200 -
+127.0.0.1 - - [24/Aug/2026 21:41:18] "GET /assets/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [24/Aug/2026 21:41:18] "GET /images/virtual-avatar-v7-cutout.png HTTP/1.1" 304 -
+127.0.0.1 - - [24/Aug/2026 21:41:18] "GET /assets/js/lab-cat-pet.js?v=20260824n HTTP/1.1" 304 -
