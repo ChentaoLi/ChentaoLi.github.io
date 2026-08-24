@@ -89,7 +89,7 @@ redirect_from:
 <!-- ============================================================= -->
 
 <section id="education" class="world-section" data-world-section="education" data-archive="01" data-tags="生物医学 · 生命科学" markdown="1">
-# 🎓 教育经历
+# 🎓 教育
 - *2024 - 2027*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo1.jpg" width="30pt"></a> **哲学硕士/Mphil, 生命科学和生物医学工程, 香港科技大学，中国**
 - *2020 - 2024*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 浙江大学，中国**
 - *2020 - 2024*, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 爱丁堡大学，英国**
@@ -102,7 +102,7 @@ redirect_from:
 <!-- ============================================================= -->
 
 <section id="publications" class="world-section" data-world-section="publications" data-archive="04" data-tags="一作 IF≈113 · 一区×3 · 共同作者×2" markdown="1">
-# 📝 学术成果
+# 📝 学术
 
 碎碎念：我的科研生涯已经结束啦！沉浮实验室5年，做过了好多好多实验。以前读博的勇气源于对于学术理想的追崇，后来的退堂鼓来源于对于人生的重新定义，其实一直做实验没有优秀的产出在一个要求极高但收益极低的专业让人很难不怀疑自己的价值。Anyway，我也算对于学术有了一些贡献！
 
@@ -168,7 +168,7 @@ redirect_from:
 <!-- ============================================================= -->
 
 <section id="projects" class="world-section" data-world-section="projects" data-archive="02" data-tags="AI4Science · 药物机制 · 细胞治疗" markdown="1">
-# 🚀 项目经历
+# 🚀 项目
 
 <div class='paper-box'><div class='paper-box-text' markdown="1">
 -	**AI4Science 蛋白互作模型**　·　香港科技大学（广州）生物研究实验室　·　项目负责人（2024–2026）
@@ -210,7 +210,7 @@ redirect_from:
 <!-- ============================================================= -->
 
 <section id="internship" class="world-section" data-world-section="internship" data-archive="03" data-tags="血液病 · 临床 · CAR-T" markdown="1">
-# 🏥 实习经历
+# 🏥 实习
 
 <div class='paper-box'><div class='paper-box-text' markdown="1">
 -	**浙江大学医学院附属第一医院**　·　血液病科　·　实习生（2021–2024）
@@ -237,7 +237,7 @@ redirect_from:
 <!-- ============================================================= -->
 
 <section id="honors" class="world-section" data-world-section="honors" data-archive="06" data-tags="iGEM银奖 · 全奖 · 三好" markdown="1">
-# 🏅 荣誉与奖项
+# 🏅 荣誉
 - *2024. 6* 浙江大学优秀本科毕业生。[]() [[证书]](images/浙江大学优秀毕业生.jpeg)
 - *2022.10* 国际遗传工程机器大赛（iGEM）银奖。[]() [[证书]](images/Prize_iGEM-2022-certificates.png) 
 - *2024 – 2027* 香港科技大学（广州）研究生全奖（¥360,000）
@@ -253,7 +253,7 @@ redirect_from:
 <!-- ============================================================= -->
 
 <section id="blogs" class="world-section" data-world-section="blogs" data-archive="07" data-tags="旅途 · 现场 · 日常" markdown="1">
-# 💻 生活记录
+# 💻 生活
 
 <div class='paper-box blog'><div class='paper-box-image'><div><div class="badge">许嵩 · 广州</div><img src='images/concert-xusong-2026-08-23.jpg' alt="许嵩安泊猜想演唱会现场留影" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -552,7 +552,7 @@ G.E.M.邓紫棋 · I AM GLORIA演唱会｜广州 · 奥林匹克体育中心
 <!-- ============================================================= -->
 
 <section id="contact" class="world-section" data-world-section="contact" data-archive="08" data-tags="邮箱 · 电话" markdown="1">
-# 📧 联系我
+# 📧 联系
 **联系方式** <br>
 lichentao2002@outlook.com <br>
 +86 15558101784

@@ -1098,8 +1098,27 @@ html[data-experience="unified"] .section-dock { display: none !important; }
 @media (max-width: 767px) {
   html[data-experience="unified"] .masthead { position: sticky; }
   html[data-experience="unified"] .world-cover[data-cover="dream"] { min-height: calc(100dvh - 3.5rem); }
-  html[data-experience="unified"] [data-world-section="education"] ul { gap: 5rem; }
-  html[data-experience="unified"] [data-world-section="education"] li { min-height: 12rem; }
+  html[data-experience="unified"] [data-world-section="education"] ul {
+    width: 100%;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 5rem;
+    box-sizing: border-box;
+  }
+  html[data-experience="unified"] [data-world-section="education"] li {
+    width: 100%;
+    min-width: 0;
+    min-height: 12rem;
+    box-sizing: border-box;
+    word-break: normal;
+    overflow-wrap: break-word;
+  }
+  html[data-experience="unified"] [data-world-section="education"] li strong {
+    display: block;
+    width: 100%;
+    word-break: keep-all;
+    overflow-wrap: normal;
+    text-wrap: pretty;
+  }
   html[data-experience="unified"] [data-world-section="projects"] .paper-box,
   html[data-experience="unified"] [data-world-section="projects"] .paper-box:nth-of-type(odd),
   html[data-experience="unified"] [data-world-section="projects"] .paper-box:nth-of-type(even) {

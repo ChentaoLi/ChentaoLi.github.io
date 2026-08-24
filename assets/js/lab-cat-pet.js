@@ -538,7 +538,6 @@
 
     function drawPigTurtle(p) {
       if (!mascot.complete || !mascot.naturalWidth) {
-        drawCat(p);
         return;
       }
       var sleeping = state.mood === "sleeping";
