@@ -1180,10 +1180,21 @@ html[data-experience="unified"] [data-world-section="projects"] {
 html[data-experience="unified"] [data-world-section="projects"] .paper-box,
 html[data-experience="unified"] [data-world-section="projects"] .paper-box:nth-of-type(odd),
 html[data-experience="unified"] [data-world-section="projects"] .paper-box:nth-of-type(even) {
-  width: min(42rem, 72vw);
-  margin-top: 3rem;
+  width: min(50rem, 78vw);
+  margin-top: 1.25rem;
   margin-bottom: 0;
+  position: relative;
   transform: none;
+}
+html[data-experience="unified"] [data-world-section="projects"] .paper-box + .paper-box {
+  margin-top: -7rem;
+}
+html[data-experience="unified"] [data-world-section="projects"] .paper-box:nth-of-type(odd) {
+  z-index: 1;
+}
+html[data-experience="unified"] [data-world-section="projects"] .paper-box:nth-of-type(even),
+html[data-experience="unified"] [data-world-section="projects"] .paper-box:hover {
+  z-index: 2;
 }
 html[data-experience="unified"] [data-world-section="projects"] .paper-box:nth-of-type(odd) {
   margin-right: auto;
@@ -1317,5 +1328,8 @@ html[data-experience="unified"] .section-dock { display: none !important; }
   html[data-experience="unified"] [data-world-section="projects"] .paper-box:nth-of-type(even) {
     width: 100%;
     margin: 2rem 0 0;
+  }
+  html[data-experience="unified"] [data-world-section="projects"] .paper-box + .paper-box {
+    margin-top: 2rem;
   }
 }
