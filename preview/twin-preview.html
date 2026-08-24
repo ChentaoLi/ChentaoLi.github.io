@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-world="reality">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TWIN PORTFOLIO · 预览</title>
+<link rel="stylesheet" href="twin.css" />
+<style>
+  /* preview-only: show both covers stacked for quick comparison */
+  .preview-note{position:fixed;left:1rem;bottom:1rem;z-index:70;font:600 .66rem/1.4 monospace;
+    color:#9fd9cf;background:rgba(4,18,29,.8);border:1px solid rgba(84,240,212,.3);
+    padding:.5rem .7rem;border-radius:8px;max-width:18rem;backdrop-filter:blur(6px);}
+</style>
+</head>
+<body>
+
+<div class="preview-note">这是隔离预览：真实 _twin.scss + lab-cat-pet.js + portfolio-motion.js。点右上角切换器看 800ms 瞳孔过场。</div>
+
+<!-- ===================== REALITY COVER ===================== -->
+<section class="world-cover" data-cover="reality">
+  <div class="cover-frame"><span class="cover-frame__no">DOSSIER · 李晨涛 / CHENTAO LI</span><span class="cover-frame__tag">REALITY · 睁眼</span></div>
+  <div class="cover-grid">
+    <div class="cover-copy">
+      <p class="cover-kicker">项目实践 × 生活日常</p>
+      <h1 class="cover-title">睁眼闯世界<br><span>闭眼做大梦</span></h1>
+      <p class="cover-intro">从研究和项目到旅途与现场，这里收录我认真做过的事。</p>
+      <div class="cover-actions">
+        <a class="cover-btn cover-btn--solid" href="#education">我的基本信息</a>
+        <a class="cover-btn" href="#publications">查看学术成果</a>
+        <a class="cover-btn" href="#blogs">翻阅生活记录</a>
+      </div>
+      <div class="cover-meta">
+        <span class="cover-coord">研究坐标 · 冀 N39.1° · 生命科学 / 生物医学 / AI4Science</span>
+        <ol class="cover-ruler"><li><b>2020</b><i>入学</i></li><li><b>2024</b><i>本科毕业</i></li><li><b>2026</b><i>硕士在读</i></li></ol>
+      </div>
+    </div>
+    <div class="cover-stage"><span class="hero-cat-motion"><canvas class="hero-lab-cat"></canvas></span></div>
+  </div>
+</section>
+
+<!-- ===================== DREAM COVER ===================== -->
+<section class="world-cover" data-cover="dream">
+  <div class="dream-cosmos">
+    <span class="dream-ring dream-ring--1"></span><span class="dream-ring dream-ring--2"></span><span class="dream-ring dream-ring--3"></span>
+    <span class="dream-cell dream-cell--a"></span><span class="dream-cell dream-cell--b"></span><span class="dream-cell dream-cell--c"></span>
+    <span class="dream-orbit-dot"></span>
+  </div>
+  <p class="dream-kicker">TWIN PORTFOLIO · 闭眼</p>
+  <h1 class="dream-title">睁眼闯世界<br><span>闭眼做大梦</span></h1>
+  <div class="dream-stage"><span class="hero-cat-motion"><canvas class="hero-lab-cat"></canvas></span></div>
+  <nav class="dream-entries">
+    <a href="#projects">PROJECTS</a>
+    <button type="button" data-enter-dream>ENTER THE DREAM</button>
+    <a href="#publications">PUBLICATIONS</a>
+  </nav>
+</section>
+
+<!-- ===================== EDUCATION ===================== -->
+<section id="education" class="world-section" data-world-section="education" data-archive="01" data-tags="生物医学 · 生命科学 · 中外合办">
+  <h1>🎓 教育经历</h1>
+  <ul>
+    <li><em>2024 - 2026</em>, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo1.jpg" width="30pt"></a> <strong>哲学硕士/Mphil, 生命科学和生物医学工程, 香港科技大学，中国</strong>（中外合办）</li>
+    <li><em>2020 - 2024</em>, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo1.jpg" width="30pt"></a> <strong>理学学士/BSc, 生物医学, 浙江大学，中国</strong></li>
+    <li><em>2020 - 2024</em>, <a href="https://www.ed.ac.uk/"><img class="jpg" src="/images/Edin_logo1.jpg" width="30pt"></a> <strong>理学学士/BSc, 生物医学, 爱丁堡大学，英国</strong>（中外合办）</li>
+  </ul>
+  <p>碎碎念：我来自河北省保定市安国市。我们的县城很小，三条街道就可以从城东走到城西。</p>
+</section>
+
+<!-- ===================== PROJECTS ===================== -->
+<section id="projects" class="world-section" data-world-section="projects" data-archive="02" data-tags="AI4Science · 蛋白互作 · 免疫治疗">
+  <h1>🚀 项目经历</h1>
+  <div class="paper-box"><div class="paper-box-text">
+    <p><strong>AI4Science 蛋白互作模型</strong> · 香港科技大学（广州）生物研究实验室 · 项目负责人（2024–2026）</p>
+    <p>0→1 负责项目：搭建数据基建（1,000+ 条标注集 + 标准化评测协议）。基于 Transformer 搭建端到端流程，测试集准确率达 90%（提升 30%）。</p>
+  </div></div>
+  <div class="paper-box"><div class="paper-box-text">
+    <p><strong>医学研发项目实践</strong> · 浙江大学良渚实验室 · 项目负责人（2022–2024）</p>
+    <p>系统综述 3,000+ 文献，提出衰老炎症正反馈循环理论。搭建 240 例移植患者随访队列，完成单细胞数据分析。筛选 100+ 款中药单体，鉴定二叶草素可抗痘病毒感染。</p>
+  </div></div>
+</section>
+
+<!-- ===================== INTERNSHIP ===================== -->
+<section id="internship" class="world-section" data-world-section="internship" data-archive="03" data-tags="血液病 · 临床 · CAR-T">
+  <h1>🏥 实习经历</h1>
+  <div class="paper-box"><div class="paper-box-text">
+    <p><strong>浙江大学医学院附属第一医院</strong> · 血液病科 · 实习生（2021–2024）</p>
+    <p>参与白血病患者管理、外周血保存；识别衰老供体表型及 CAR-T 治疗后并发症等临床痛点。对接科室 KOL 与来访专家，参与学术会议筹办。</p>
+  </div></div>
+</section>
+
+<!-- ===================== PUBLICATIONS ===================== -->
+<section id="publications" class="world-section" data-world-section="publications" data-archive="04" data-tags="一作 IF≈113 · 一区×3 · 共同作者×2">
+  <h1>📝 学术成果</h1>
+  <p>碎碎念：我的科研生涯已经结束啦！沉浮实验室5年，做过了好多好多实验。</p>
+  <blockquote>一作累计影响因子 ≈ 113，含中科院一区期刊 3 篇（STTT、CCS 2026、IJBS）；单篇最高被引 1,700+ 次。</blockquote>
+  <div class="paper-box publication" data-pub="1"><div class="paper-box-image"><div><div class="badge">iScience 2024</div><img src="/images/CCS_2026_Diphyllin.jpg" alt="sym" width="100%"></div></div><div class="paper-box-text"><p>第一作者（共同）<strong>Targeting endolysosomal acidification inhibits poxvirus entry and replication</strong>. <em>Cell communication and signaling</em>.</p></div></div>
+  <div class="paper-box publication" data-pub="2"><div class="paper-box-image"><div><div class="badge">iScience 2024</div><img src="/images/iScience_2024_HSCT.jpg" alt="sym" width="100%"></div></div><div class="paper-box-text"><p>第一作者（共同）<strong>Monocytes in allo-HSCT with aged donors secrete IL-1/IL-6/TNF to increase the risk of GVHD</strong>. <em>iScience</em>.</p></div></div>
+  <div class="paper-box publication" data-pub="3"><div class="paper-box-image"><div><div class="badge">IJMS 2025</div><img src="/images/IJMS_2025_MR.jpg" alt="sym" width="100%"></div></div><div class="paper-box-text"><p>第一作者（共同）Correlation Among Psoriasis, Iridocyclitis, and NAFLD. <em>International Journal of Medical Sciences</em>.</p></div></div>
+  <div class="paper-box publication" data-pub="4"><div class="paper-box-image"><div><div class="badge">STTT 2023</div><img src="/images/STTT_2023.png" alt="sym" width="100%"></div></div><div class="paper-box-text"><p>第一作者（共同）<strong>Aging and Inflammation: Signaling Pathways and Intervention Therapies</strong>. <em>STTT</em>.</p></div></div>
+  <div class="paper-box publication" data-pub="5"><div class="paper-box-image"><div><div class="badge">IJBS 2024</div><img src="/images/IJBS_2024.png" alt="sym" width="100%"></div></div><div class="paper-box-text"><p>第一作者（共同）<strong>Synthetic Cells and Molecules in Cellular Immunotherapy</strong>. <em>IJBS</em>.</p></div></div>
+  <div class="paper-box publication" data-pub="6"><div class="paper-box-image"><div><div class="badge">BEHDP 2022</div><img src="/images/BEHDP_2022.png" alt="sym" width="100%"></div></div><div class="paper-box-text"><p>第一作者（共同）<strong>CAR-T Immunotherapy to Beat Solid Tumors</strong>. <em>HSET</em>.</p></div></div>
+  <div class="paper-box publication publication--co" data-pub="7"><div class="paper-box-text"><p>共同作者（2026）<strong>Advantages of magnetic compression in rat colonic anastomosis</strong>. <em>Scientific Reports</em>.</p></div></div>
+  <div class="paper-box publication publication--co" data-pub="8"><div class="paper-box-text"><p>共同作者（2026）<strong>Transcriptomics uncovers the advantages of magnetic compression technique</strong>. <em>Journal of Gastrointestinal Surgery</em>.</p></div></div>
+</section>
+
+<!-- ===================== SKILLS ===================== -->
+<section id="skills" class="world-section" data-world-section="skills" data-archive="05" data-tags="Python · R · HPC · 数据分析">
+  <h1>🛠 技能</h1>
+  <ul>
+    <li><strong>专业技能</strong>：Python、R、数据分析与可视化、Vibe coding、HPC 平台使用、生物医学研发</li>
+    <li><strong>语言能力</strong>：英语（全英授课本硕背景，英文材料整理与写作）</li>
+    <li><strong>软性技能</strong>：团队管理与协作、社会调研与实践、会议筹办</li>
+  </ul>
+</section>
+
+<!-- ===================== HONORS ===================== -->
+<section id="honors" class="world-section" data-world-section="honors" data-archive="06" data-tags="iGEM银奖 · 全奖 · 三好">
+  <h1>🏅 荣誉与奖项</h1>
+  <ul>
+    <li><em>2024. 6</em> 浙江大学优秀本科毕业生。</li>
+    <li><em>2022.10</em> 国际遗传工程机器大赛（iGEM）银奖。</li>
+    <li><em>2024 – 2027</em> 香港科技大学（广州）研究生全奖（¥360,000）</li>
+    <li><em>2022</em> iGEM 国际联合学院特别资助（¥300,000）</li>
+    <li><em>2021 – 2023</em> 浙江大学创新创业标兵（连续三年）</li>
+    <li><em>2022. 2</em> 美国大学生数学建模 ICM 三等奖（S 奖）</li>
+    <li><em>2021</em> 浙江省大学生省级科技创新资助（¥3,000）</li>
+    <li><em>2019.10</em> 河北省三好学生</li>
+  </ul>
+</section>
+
+<!-- ===================== BLOGS ===================== -->
+<section id="blogs" class="world-section" data-world-section="blogs" data-archive="07" data-tags="旅途 · 现场 · 日常">
+  <h1>💻 生活记录</h1>
+  <div class="paper-box blog"><div class="paper-box-image"><div><div class="badge">张杰演唱会</div><img src="/images/2024.11.09.jpg" alt="sym" width="100%"></div></div><div class="paper-box-text"><p><em>2024.11.09</em> 🎤2024张杰未·LIVE开往1982巡回演唱会（南宁站）- 147 - 和表姐一起！</p></div></div>
+  <div class="paper-box blog"><div class="paper-box-image"><div><div class="badge">诺奖得主</div><img src="/images/2024.11.01.jpg" alt="sym" width="100%"></div></div><div class="paper-box-text"><p><em>2024.11.01</em> 📷与2014年诺贝尔化学奖得主Stefan W. Hell的合影！</p></div></div>
+</section>
+
+<!-- ===================== CONTACT ===================== -->
+<section id="contact" class="world-section" data-world-section="contact" data-archive="08" data-tags="邮箱 · 电话">
+  <h1>📧 联系我</h1>
+  <p><strong>联系方式</strong><br>lichentao2002@outlook.com<br>+86 15558101784</p>
+</section>
+
+<script src="/assets/js/lab-cat-pet.js?v=20260824b"></script>
+<script src="/assets/js/portfolio-motion.js?v=20260824g"></script>
+</body>
+</html>

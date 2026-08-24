@@ -1,0 +1,6 @@
+exclude:
+  - assets/css/main.scss
+  - node_modules
+  - vendor
+  - tmp
+  - preview

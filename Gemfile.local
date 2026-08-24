@@ -1,0 +1,38 @@
+# Local-only Gemfile for Windows preview (NO github-pages meta-gem).
+# github-pages pins old nokogiri/racc that fail to compile on Ruby 3.3 / Windows.
+# This file lets bundler resolve precompiled Windows gems so `bundle install`
+# needs ZERO native compilation. It does NOT affect GitHub Pages deployment
+# (which still uses the real Gemfile + github-pages gem in CI).
+#
+# Usage:
+#   BUNDLE_GEMFILE=Gemfile.local bundle install
+#   BUNDLE_GEMFILE=Gemfile.local bundle exec jekyll serve --livereload
+
+source "https://rubygems.org"
+
+# Pin the same Jekyll version github-pages 215 uses, for a faithful preview.
+gem "jekyll", "3.9.0"
+
+# Windows timezone support: jekyll's win_tz.rb requires tzinfo, but the jekyll
+# gemspec does NOT declare it. On Windows you must provide tzinfo + tzinfo-data
+# explicitly (github-pages normally pulls these in; we dropped github-pages).
+gem "tzinfo", "~> 1.2"
+gem "tzinfo-data"
+# kramdown GFM parser: required because _config.yml uses `markdown: kramdown`
+# with `kramdown: input: GFM`. Shipped by github-pages; we add it explicitly.
+gem "kramdown-parser-gfm"
+# webrick was removed from the Ruby stdlib in 3.0; jekyll serve needs it.
+gem "webrick"
+
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-redirect-from"
+  gem "jekyll-seo-tag"
+  gem "jekyll-include-cache"
+  gem "hawkins"
+  # NOTE: jekyll-gist intentionally omitted. It pulls faraday -> json, and the
+  # json gem has no precompiled Windows binary for Ruby 3.3 (compiles -> fails).
+  # The site does not use {% gist %} tags, so it is safe to drop for local preview.
+end

@@ -6,14 +6,20 @@ main:
   - title: "教育经历"
     url: "/#education"
 
+  - title: "项目经历"
+    url: "/#projects"
+
+  - title: "实习经历"
+    url: "/#internship"
+
   - title: "学术成果"
     url: "/#publications"
 
+  - title: "技能"
+    url: "/#skills"
+
   - title: "荣誉奖项"
     url: "/#honors"
-
-  - title: "工具设计"
-    url: "/#tools"
 
   - title: "生活记录"
     url: "/#blogs"

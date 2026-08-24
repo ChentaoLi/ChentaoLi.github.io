@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-world="reality">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>LCT 科研猫 · 电子宠物预览</title>
+<style>
+  :root { color-scheme: light dark; }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 1.4rem; padding: 2rem 1rem;
+    transition: background .5s ease, color .5s ease;
+  }
+  html[data-world="reality"] body {
+    background: radial-gradient(120% 120% at 50% 0%, #eef6f5 0%, #dfeef0 55%, #cfe2e6 100%);
+    color: #1f3147;
+  }
+  html[data-world="dream"] body {
+    background: radial-gradient(120% 120% at 50% 0%, #06222b 0%, #081d29 55%, #04141c 100%);
+    color: #d8fbf4;
+  }
+
+  .stage-wrap {
+    position: relative;
+    width: min(78vw, 420px);
+    aspect-ratio: 600 / 679;
+    display: grid; place-items: stretch;
+  }
+
+  /* ---- copied verbatim from _job-profile.scss (the live site) ---- */
+  .hero-cat-stage {
+    position: relative;
+    width: 100%; height: 100%;
+    pointer-events: auto; cursor: pointer;
+    padding: 0; border: 0; color: inherit; background: none;
+    -webkit-tap-highlight-color: transparent;
+    filter: drop-shadow(0 24px 35px rgba(0, 8, 18, .42)) drop-shadow(0 0 22px rgba(68, 224, 205, .24));
+    transform-origin: 50% 100%; will-change: transform;
+  }
+  .hero-cat-stage:focus-visible {
+    outline: 2px solid #72e6d4; outline-offset: 5px;
+    border-radius: 42% 42% 34% 34%;
+  }
+  canvas.hero-lab-cat {
+    display: block; width: 100%; height: 100%;
+    animation: none !important; -webkit-tap-highlight-color: transparent;
+  }
+  .hero-cat-motion {
+    position: relative; display: block; width: 100%; height: 100%;
+    transform-origin: 50% 88%; will-change: transform;
+  }
+  .hero-cat-stage.is-curious {
+    filter: drop-shadow(0 28px 38px rgba(0, 8, 18, .46)) drop-shadow(0 0 34px rgba(68, 244, 211, .5));
+  }
+
+  .panel {
+    display: flex; gap: .6rem; flex-wrap: wrap; justify-content: center;
+    font-size: .9rem;
+  }
+  .btn {
+    border: 1px solid currentColor; background: transparent; color: inherit;
+    padding: .5rem .9rem; border-radius: 999px; cursor: pointer; font: inherit;
+    transition: background .2s, transform .1s;
+  }
+  .btn:hover { background: rgba(127,255,240,.12); }
+  .btn:active { transform: scale(.96); }
+  .hint {
+    max-width: 30rem; text-align: center; line-height: 1.7; opacity: .85;
+    font-size: .92rem;
+  }
+  .hint b { color: #3aa6a0; }
+  html[data-world="dream"] .hint b { color: #6ff0dc; }
+  h1 { font-size: 1.15rem; margin: 0; letter-spacing: .02em; }
+</style>
+</head>
+<body>
+  <h1>LCT 科研猫 · 程序化电子宠物</h1>
+
+  <div class="stage-wrap">
+    <button class="hero-cat-stage" aria-label="和 LCT 科研猫互动">
+      <span class="hero-cat-motion">
+        <canvas class="hero-lab-cat"></canvas>
+      </span>
+    </button>
+  </div>
+
+  <div class="panel">
+    <button class="btn" id="toggle">切换 现实 / 梦境 皮肤</button>
+    <button class="btn" id="pet">摸摸它 ♥</button>
+  </div>
+
+  <p class="hint">
+    这是真·Canvas 程序化绘制：<b>呼吸 / 眨眼 / 摆尾 / 耳朵抽动 / 瞳孔追光标</b> 都是逐帧实时算的。<br>
+    把鼠标移到猫身上 → <b>好奇</b>；点它（或按回车）→ <b>开心冒爱心</b>；放着不动 24 秒 → <b>犯困</b>，52 秒 → <b>睡着冒 Zzz</b>。<br>
+    左上角 5 颗心是亲密度，存在 <code>localStorage</code>，会缓慢衰减。
+  </p>
+
+  <script src="assets/js/lab-cat-pet.js"></script>
+  <script>
+    (function () {
+      var stage = document.querySelector(".hero-cat-stage");
+      var canvas = document.querySelector("canvas.hero-lab-cat");
+      if (window.LabCatPet && window.LabCatPet.mount) {
+        window.LabCatPet.mount(canvas, { stage: stage });
+      }
+      // world toggle (mirrors portfolio-motion.js world-switcher)
+      document.getElementById("toggle").addEventListener("click", function () {
+        var next = document.documentElement.dataset.world === "dream" ? "reality" : "dream";
+        document.documentElement.dataset.world = next;
+      });
+      // manual pet
+      document.getElementById("pet").addEventListener("click", function () {
+        stage.dispatchEvent(new PointerEvent("pointerdown", { clientX: 0, clientY: 0, bubbles: true }));
+      });
+    })();
+  </script>
+</body>
+</html>

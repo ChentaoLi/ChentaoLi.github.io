@@ -16,7 +16,10 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# NOTE: wdm fails to compile native ext on Ruby 3.3 (ruby.h missing). It is only
+# used for Windows livereload file-watching; Jekyll runs fine without it (Listen
+# falls back to polling). Removed to unblock `bundle install`. No effect on GitHub Pages.
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
