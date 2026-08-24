@@ -64,10 +64,11 @@ redirect_from:
     <span class="dream-orbit-dot"></span>
   </div>
 
-  <p class="dream-kicker">TWIN PORTFOLIO · 闭眼</p>
+  <p class="dream-kicker">LCT</p>
   <h1 class="dream-title">睁眼闯世界<br><span>闭眼做大梦</span></h1>
 
-  <div class="dream-stage" aria-hidden="true">
+  <div class="dream-stage">
+    <img class="dream-avatar" src="/images/virtual-avatar-v7-cutout.png" alt="李晨涛的动漫虚拟形象">
     <span class="hero-cat-motion"><canvas class="hero-lab-cat"></canvas></span>
   </div>
 
@@ -89,6 +90,14 @@ redirect_from:
 <!-- ============================================================= -->
 
 <section id="education" class="world-section" data-world-section="education" data-archive="01" data-tags="生物医学 · 生命科学" markdown="1">
+<section class="life-timeline" aria-label="人生地点时间线">
+  <ol>
+    <li><strong>保定</strong><time>2002 — 2020</time></li>
+    <li><strong>杭州</strong><time>2020 — 2024</time></li>
+    <li><strong>广州</strong><time>2024 — NOW</time></li>
+  </ol>
+</section>
+
 # 🎓 教育
 - *2024 - 2027*, <a href="https://hkust.edu.hk/"><img class="jpg" src="/images/HKUST_logo1.jpg" width="30pt"></a> **哲学硕士/Mphil, 生命科学和生物医学工程, 香港科技大学，中国**
 - *2020 - 2024*, <a href="https://www.zju.edu.cn/"><img class="jpg" src="/images/ZJU_logo1.jpg" width="30pt"></a> **理学学士/BSc, 生物医学, 浙江大学，中国**

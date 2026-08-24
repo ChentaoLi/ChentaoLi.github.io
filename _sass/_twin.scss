@@ -26,6 +26,101 @@ html[data-world="reality"] {
   --maxw: 58rem;
 }
 
+/* Life route before education */
+html[data-experience="unified"] .life-timeline {
+  width: min(48rem, calc(100% - 3rem));
+  margin: 2.25rem auto .25rem;
+}
+html[data-experience="unified"] .life-timeline ol {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .75rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+html[data-experience="unified"] .life-timeline ol::before {
+  content: "";
+  position: absolute;
+  top: .45rem;
+  left: 16.666%;
+  right: 16.666%;
+  height: 1px;
+  background: linear-gradient(90deg, rgba(111,184,255,.25), #71c8ff 50%, rgba(113,235,219,.35));
+  box-shadow: 0 0 1.25rem rgba(86,171,255,.32);
+}
+html[data-experience="unified"] .life-timeline li {
+  position: relative;
+  display: grid;
+  justify-items: center;
+  gap: .15rem;
+  min-width: 0;
+  color: #e8f5ff;
+  text-align: center;
+}
+html[data-experience="unified"] .life-timeline li::before {
+  content: "";
+  position: relative;
+  z-index: 1;
+  width: .55rem;
+  height: .55rem;
+  margin-bottom: .15rem;
+  border: .15rem solid #07172e;
+  border-radius: 50%;
+  background: #78ceff;
+  box-shadow: 0 0 0 1px rgba(132,206,255,.55), 0 0 1.5rem rgba(92,181,255,.72);
+}
+html[data-experience="unified"] .life-timeline li:last-child::before {
+  background: #83f0db;
+  box-shadow: 0 0 0 1px rgba(131,240,219,.6), 0 0 1.6rem rgba(85,227,205,.75);
+}
+html[data-experience="unified"] .life-timeline strong {
+  font-size: clamp(.88rem, 1.2vw, 1.05rem);
+  letter-spacing: .1em;
+}
+html[data-experience="unified"] .life-timeline time {
+  color: rgba(205,229,249,.7);
+  font: 600 .58rem/1.3 ui-monospace, SFMono-Regular, Menlo, monospace;
+  letter-spacing: .04em;
+}
+
+@media (max-width: 767px) {
+  html[data-experience="unified"] .life-timeline {
+    width: calc(100% - 1.5rem);
+    margin-top: 1.5rem;
+  }
+  html[data-experience="unified"] .life-timeline ol {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: .25rem;
+    padding-left: 0;
+  }
+  html[data-experience="unified"] .life-timeline ol::before {
+    top: .45rem;
+    bottom: auto;
+    left: 16.666%;
+    right: 16.666%;
+    width: auto;
+    height: 1px;
+    background: linear-gradient(90deg, rgba(111,184,255,.25), #71c8ff 50%, rgba(113,235,219,.35));
+  }
+  html[data-experience="unified"] .life-timeline li {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+  }
+  html[data-experience="unified"] .life-timeline li::before {
+    position: relative;
+    top: auto;
+    left: auto;
+  }
+  html[data-experience="unified"] .life-timeline strong,
+  html[data-experience="unified"] .life-timeline time { grid-column: 1; grid-row: auto; }
+  html[data-experience="unified"] .life-timeline strong { font-size: .78rem; }
+  html[data-experience="unified"] .life-timeline time { font-size: .48rem; }
+}
+
 html[data-world="dream"] {
   --bg-0: #030c16;
   --bg-1: #061626;
@@ -593,7 +688,8 @@ html[data-world="dream"] .dream-field { opacity: var(--dream-density, 1); }
 /* ====================================================================== */
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
-  .dream-ring, .dream-cell, .dream-orbit-dot, .dream-stage .hero-cat-motion,
+  .dream-ring, .dream-cell, .dream-orbit-dot, .dream-avatar,
+  .dream-stage::before, .dream-stage .hero-cat-motion,
   [data-world-section="honors"] li::after, [data-world-section="contact"]::before,
   [data-world-section="contact"]::after, [data-world-section="internship"] .paper-box::after,
   [data-world-section="skills"] li::before { animation: none !important; }
@@ -748,6 +844,8 @@ html[data-world="dream"] .dream-copy {
   text-align: center;
 }
 html[data-world="dream"] .dream-title {
+  position: relative;
+  z-index: 4;
   margin: 0;
   font-family: Arial, "Microsoft YaHei", sans-serif;
   font-size: clamp(4rem, 11vw, 10rem);
@@ -757,10 +855,68 @@ html[data-world="dream"] .dream-title {
   text-shadow: 0 0 45px rgba(84, 240, 212, .16);
 }
 html[data-world="dream"] .dream-stage {
-  inset: 50% auto auto 50%;
-  width: min(28vw, 20rem);
-  transform: translate(-50%, -42%);
-  opacity: .68;
+  position: absolute;
+  z-index: 3;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  aspect-ratio: auto;
+  transform: none;
+  opacity: 1;
+}
+html[data-world="dream"] .dream-stage::before {
+  content: "";
+  position: absolute;
+  right: 1%;
+  bottom: 7%;
+  width: clamp(17rem, 31vw, 30rem);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(88, 173, 255, .28), rgba(64, 129, 235, .08) 46%, transparent 72%);
+  pointer-events: none;
+  animation: avatar-aura 3.8s ease-in-out infinite;
+  will-change: transform, opacity;
+}
+html[data-world="dream"] .dream-avatar {
+  position: absolute;
+  right: -1%;
+  left: auto;
+  bottom: -2rem;
+  width: clamp(18rem, 31vw, 29rem);
+  height: min(76dvh, 52rem);
+  object-fit: contain;
+  object-position: right bottom;
+  opacity: .94;
+  filter: drop-shadow(0 0 22px rgba(103,176,255,.24)) drop-shadow(0 30px 40px rgba(0,0,0,.5));
+  animation: avatar-float 5.6s ease-in-out infinite;
+  transform-origin: 60% 88%;
+  transition: filter .3s ease;
+  will-change: transform;
+}
+html[data-world="dream"] .dream-avatar:hover {
+  filter: drop-shadow(0 0 34px rgba(103,176,255,.65)) drop-shadow(0 30px 42px rgba(0,0,0,.5));
+}
+html[data-world="dream"] .dream-stage .hero-cat-motion {
+  position: absolute;
+  right: auto;
+  left: 3vw;
+  bottom: 1rem;
+  z-index: 2;
+  width: clamp(9rem, 15vw, 14rem);
+  height: auto;
+  aspect-ratio: 600 / 679;
+}
+@keyframes avatar-float {
+  0%, 100% { transform: translate3d(0, 0, 0) rotate(-.35deg); }
+  50% { transform: translate3d(0, -12px, 0) rotate(.45deg); }
+}
+@keyframes avatar-aura {
+  0%, 100% { transform: scale(.92); opacity: .58; }
+  50% { transform: scale(1.06); opacity: 1; }
+}
+html[data-world="dream"] .dream-entries {
+  z-index: 4;
 }
 html[data-world="dream"] .world-section {
   box-sizing: border-box;
@@ -1098,6 +1254,31 @@ html[data-experience="unified"] .section-dock { display: none !important; }
 @media (max-width: 767px) {
   html[data-experience="unified"] .masthead { position: sticky; }
   html[data-experience="unified"] .world-cover[data-cover="dream"] { min-height: calc(100dvh - 3.5rem); }
+  html[data-experience="unified"] .dream-stage {
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+  }
+  html[data-experience="unified"] .dream-avatar {
+    right: 0;
+    left: auto;
+    bottom: .25rem;
+    width: 46vw;
+    height: 52dvh;
+    opacity: .88;
+  }
+  html[data-experience="unified"] .dream-stage .hero-cat-motion {
+    right: auto;
+    left: -1vw;
+    bottom: .5rem;
+    width: 30vw;
+  }
+  html[data-experience="unified"] .dream-stage::before {
+    right: -8vw;
+    bottom: 8%;
+    width: 58vw;
+  }
   html[data-experience="unified"] [data-world-section="education"] ul {
     width: 100%;
     grid-template-columns: minmax(0, 1fr);
