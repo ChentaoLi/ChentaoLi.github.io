@@ -64,7 +64,7 @@ redirect_from:
     <span class="dream-orbit-dot"></span>
   </div>
 
-  <p class="dream-kicker">LCT</p>
+  <p class="dream-kicker">李晨涛 Chentao LI</p>
   <h1 class="dream-title">睁眼闯世界<br><span>闭眼做大梦</span></h1>
 
   <div class="dream-stage">
